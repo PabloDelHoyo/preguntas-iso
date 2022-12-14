@@ -1,0 +1,139 @@
+A02-L11-Q01- WHICH OF THE FOLLOWING IS NOT AN ELEMENT OF THE PROJECT MANAGEMENT PYRAMID?:
+A. Scope.
+B. Tools.
+C. Money.
+D. Time.
+ANSWER: B
+
+A02-L11-Q02- WHICH OF THE FOLLOWING IS NOT A CORE ELEMENT OF A PROCESS?:
+A. An objective.
+B. A set of activities.
+C. The cost.
+D. A set of results.
+ANSWER: C
+
+A02-L11-Q03- THE WATERFALL MODEL:
+A. is a cutting-edge methodology.
+B. is not suitable when unexpected changes of the requirements are frequent.
+C. exactly specifies what should be done in each phase.
+D. is always a bad option for a software project.
+ANSWER: B
+
+A02-L11-Q04- ISO 12207
+A. must be followed by every software development company.
+B. is not an useful tool to compare software companies.
+C. is enough to produce a software product.
+D. is a process model.
+ANSWER: D
+
+A02-L11-Q05- WHICH OF THE FOLLOWING CHARACTERISTICS DOES NOT CORRESPOND TO THE WATERFALL MODEL?:
+A. A stage cannot begin until the previous one has not completely finished.
+B. It is also called “Secuential – Lineal”.
+C. The system is being developed in small increments
+D. By the end of each stage, the corresponding documentation is generated.
+ANSWER: C
+
+A02-L11-Q06- A PROCESS IS A:
+A. Type of life cycle.
+B. Set of interrelated or interacting activities which transforms inputs into outputs.
+C. Product used as input or generated as an output.
+D. None of the above answers is correct.
+ANSWER: B
+
+A02-L11-Q07- WHICH OF THE FOLLOWING CHARACTERISTICS DOES NOT CORRESPOND TO THE CONVENTIONAL METHODOLOGIES?:
+A. Final results are unpredictable.
+B. Has a structured design and analysis.
+C. There is no way to control what is happening inside the project.
+D. Organizative changes affect to the development processes.
+ANSWER: B
+
+A02-L11-Q08- TAKING INTO ACCOUNT THAT WE ARE WORKING ON A PROJECT USING THE INCREMENTAL MODEL LIFE CYCLE, WHAT WOULD BE ONE OF THE PROBLEMS THAT WE CAN FIND?:
+A. It is harder to estimate the final cost of the overall project.
+B. We will not have enough feedback from clients.
+C. It is not very flexible.
+D. Long time projects.
+ANSWER: A
+
+A02-L11-Q09- WHICH ONE IS NOT A LIFE CYCLE MODEL?:
+A. Spiral Model.
+B. Incremental Model.
+C. U-shaped Model.
+D. Waterfall Model.
+ANSWER: C
+
+A02-L11-Q10- WHAT ARE GENERIC STEPS IN THE SOFTWARE LIFE CYCLE?:
+A. Definition, Development, Deployment and Maintenance.
+B. Definition, Development, Testing, Deployment and Maintenance.
+C. Definition, Development, Deployment.
+D. Development, Deployment.
+ANSWER: A
+
+A02-L11-Q11- WHICH ONE IS NOT A PROCESS MODEL?:
+A. IEEE 1074.
+B. ISO 12207.
+C. CMMI.
+D. IEEE 802.1Q.
+ANSWER: D
+
+A02-L11-Q12- WHICH ONE IS IS NOT AN OBJECT ORIENTED METHODOLOGY?:
+A. OMT.
+B. SSDM.
+C. UDP.
+D. Métrica v3 OO.
+ANSWER: B
+
+A02-L11-Q13- A LIFE CYCLE DEFINES:
+A. The set of processes.
+B. The order of the processes.
+C. How to do the project.
+D. A process model.
+ANSWER: B
+
+A02-L11-Q14- WHICH OF THIS IN NOT A LIFE CYCLE MODEL:
+A. Waterfall.
+B. Incremental.
+C. Structured.
+D. Spiral.
+ANSWER: C
+
+A02-L11-Q15- THE WATERFALL MODEL IS:
+A. Secuential.
+B. Iterative.
+C. Incremental.
+D. All of them.
+ANSWER: A
+
+A02-L11-Q16- A METHODOLOGY CANNOT BE:
+A. Process oriented.
+B. Data oriented.
+C. Object oriented.
+D. Events oriented.
+ANSWER: D
+
+A02-L11-Q17- A SCHEDULE DIFFERS FROM A PLAN IN:
+A. A plan can consist of the number of iterations, while a schedule consist in the organization to sequence those iterations.
+B. A schedule can consist of the number of iterations, while a plan consist in the organization to sequence those iterations.
+C. A schedule can consist of software cycles necessary to obtain the product ,while organization corresponds to the version control over time.
+D. Both plan and schedule mean the same.
+ANSWER: A
+
+A02-L11-Q18- AS SOFTWARE DEVELOPER WE MUST:
+A. Be able to produce all in new software every time without reusing components.
+B. We must Optimize our dev time , to do that we will be reusing as much as possible developed components.
+C. Being able to reuse or not components is indistinct.
+D. Reuse components will be harmful, in fact it can cause a lot of problems and slow our development process.
+ANSWER: B
+
+A02-L11-Q19- A USE CASE WILL BE DEFINED AS:
+A. A funtional requirement is the same as USE CASE
+B. An USE CASE is a model of 1 or several functional requirements, mainly defines the required user interaction
+C. An USE CASE is incremental and iterative CASE.
+D. A non-funtional requirement is the same as USE CASE 
+ANSWER: B
+
+A02-L11-Q20- WHEN WE SAY UDP IS ARCHITECTURE CENTRIC WE REFER TO:
+A. A Baseline Tradeoff
+B. To a software development model choice between classical or agile methodologies
+C. To hardware architecture used in the development enviroment for example -> (x86,x64,ARM,..)
+D. A Configuration/combination of components for example -> (PRESENTATION,DOMAIN,PERSISTENCE)
+ANSWER: D

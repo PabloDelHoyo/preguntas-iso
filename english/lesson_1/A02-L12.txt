@@ -1,0 +1,174 @@
+A02-L12-Q01- WHICH IS NOT A PART OF A USER STORY:
+A. Agreement.
+B. Description.
+C. Negotiation.
+D. Conversation.
+ANSWER: C
+
+A02-L12-Q02- QUALITIES OF PRODUCT BACKLOG ARE:
+A. Adequate level of detail, Estimated, Emergent and Prioritized.
+B. Adequate level of detail, Estimated, Emergent and Pragmatic.
+C. Over-detailed, Exact, Immutable and Prioritized.
+D. Adequate level of detail, Exact, Immutable and Prioritized.
+ANSWER: A
+
+A02-L12-Q03- WHICH STATEMENT ABOUT SCRUM'S FEATURES IS NOT TRUE:
+A. It is multi-functional and distributed.
+B. Requirements are elements in a list of "product backlog".
+C. It is one of the "agile processes".
+D. It is self-organized developement team with the optimal size.
+ANSWER: A
+
+A02-L12-Q04- WHICH STATEMENT ABOUT AGILE METHODOLOGY IS NOT TRUE:
+A. Responding to change is more important than following the plan.
+B. Scrum, Agile Unified Process and Kanban are examples of Agile Methodologies.
+C. Team can modify the methodology without justification.
+D. Planning does not have to predictive, but also non-existent.
+ANSWER: C
+
+A02-L12-Q05- WHICH IS NOT AND ADVANTAGE OF UDP:
+A. Risk impact on Project is reduced to only one increment.
+B. Controlled iteration reduces the risk of not bringing the product to market on schedule.
+C. Controlled iteration allows for better collection and fixation of user requirements.
+D. All the answers all correct.
+ANSWER: D
+
+A02-L12-Q06- IN WHAT ORDER WILL THE PHASES OF A CYCLE BE PERFORMED?:
+A. Inception-Transition-Elaboration-Construction.
+B. Inception-Elaboration-Construction-Transition.
+C. Construction-Inception-Elaboration-Transition.
+D. Elaboration-Construction-Inception-Transition.
+ANSWER: B
+
+A02-L12-Q07- WHICH IS A GOAL OF THE CONSTRUCTION PHASE?:
+A. Life cycle goals.
+B. Product Delivery.
+C. Initial Working Capability.
+D. System Architecture Baseline.
+ANSWER: C
+
+A02-L12-Q08- WHICH OF THE FOLLOWING STATEMENTS ABOUT THE SPRINT REVIEW MEETING IS FALSE?:
+A. Formal.
+B. Everybody participates.
+C. Everybody is invited.
+D. All the answer are true.
+ANSWER: A
+
+A02-L12-Q09- WHICH OF THE FOLLOWING IS NOT A PHASE OF THE WORK IN UDP?:
+A. Inception.
+B. Construction.
+C. Transcription.
+D. Transition.
+ANSWER: C
+
+A02-L12-Q10- IN WHICH PHASE MOST OF THE USE CASES ARE FULLY DETAILED?:
+A. Inception.
+B. Elaboration.
+C. Construction.
+D. Trasition.
+ANSWER: B
+
+A02-L12-Q11- WHICH OF THESE ROLES IS NOT IN SCRUM:
+A. Costumer.
+B. Development Team.
+C. Product owner.
+D. ScrumMaster.
+ANSWER: A
+
+A02-L12-Q12- SCRUM IS A:
+A. Life cycle.
+B. Traditional methodology.
+C. Process model.
+D. Agile methodology.
+ANSWER: D
+
+A02-L12-Q13- SCRUM IS :
+A. an agile methodology for software development and testing.
+B. a methodology following in the sequential order, and so project development team only moves to next phase of development or testing if the previous step completed successfully.
+C. Both answers are correct.
+D. Both answers are false.
+ANSWER: A
+
+A02-L12-Q14- WHAT DOES AGILE MEAN?:
+A. Agile is a set of principles that encourage flexibility, adaptability, communication and working software over plans and processes.
+B. Agile is a structured software development methodology that follows a sequential design process.
+C. Agile is a project management methodology that is beneficial to manage dependencies where process and results are well documented.
+D. Agile is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+ANSWER: A
+
+A02-L12-Q15- WHAT ARE THE LIMITATIONS OF A WATERFALL MODEL:
+A. It is not useful method for small development projects and requires an expert to take important decisions in the meeting.
+B. The project can easily go off track if the project manager is not clear what outcome he/she wants.
+C. If the requirement is not clear at the beginning, it is a less effective method and also is very difficult to move back to makes changes in the previous phases.
+D. Cost of implementing an waterfall model is little more compared to other development methodologies.
+ANSWER: C
+
+A02-L12-Q16- WHICH OF THE FOLLOWING STATEMENTS ABOUT THE SCRUM IS TRUE?:
+A. It separates the project development lifecycle into sprints.
+B. Software development will be completed as one single project.
+C. The test plan is rarely discussed during the test phase.
+D. All the answer are true.
+ANSWER: A
+
+A02-L12-Q17- WHICH IS THE MOST USED AGILE METHODOLOGY?:
+A. Kanban.
+B. Extreme Programming (XP).
+C. UDP.
+D. Scrum.
+ANSWER: D
+
+A02-L12-Q18- AGILE METHODOLOGIES:
+A. are always better than traditional ones.
+B. is not applicable for any project other than for software development.
+C. introduced the iterative-incremental lifecycle.
+D. have a strong focus on adaptability.
+ANSWER: D
+
+A02-L12-Q19- THE ACRONYM "RADIT" IN SOFTWARE ENGINEERING STANDS FOR:
+A. Requirements, Analysis, Design, Implementation, Testing.
+B. Requirements, Analysis, Design, Inception, Transition.
+C. Realization, Analysis, Definition, Inception, Transition.
+D. That acronym is not used in software engineering.
+ANSWER: A
+
+A02-L12-Q20- A SOFTWARE PROJECT DEVELOPED FOLLOWING AN AGILE METHODOLOGY:
+A. always has a higher probability of success than one developed using a traditional methodology.
+B. is not accompanied by high quality documentation since it is not that important.
+C. can easily react to a change in the requirements.
+D. is more chaotic than formal methods.
+ANSWER: C
+
+A02-L12-Q21- WHAT IS A CHARACACTERISTIC OF AN AGILE METHODOLOGY:
+A. The Agile Team members are interchangeable, work faster and no need  project managers because the projects are managed by the entire team.
+B. The Agile Team members are independent, work slower and need project managers because the projects are managed by a single person.
+C. The Agile Team members a strong plan divided in phases that can not change .
+D. None of the previus one is correct.
+ANSWER: A
+
+A02-L12-Q22- WHAT IS AN ADVANTAGE OF AN AGILE METHODOLOGY:
+A. It is very difficult to move back to makes changes in the previous phases.
+B. If the requirement is not clear at the beginning, it is a less effective method.
+C. It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+D. It tries not to be annonying with client asking minimun times possible due to direction negative view.
+ANSWER: C
+
+A02-L12-Q23- WHICH OF THE FOLLOWING DIAGRAMS IS THE MOST SUITABLE ONE WHEN CAPTURING FUNCTIONAL REQUIREMENTS?:
+A. Sequence diagram.
+B. State machine diagram.
+C. Use case diagram.
+D. Class diagram.
+ANSWER: C
+
+A02-L12-Q24- WHICH OF THE FOLLOWING SHOULD BE TAKEN INTO ACCOUNT WHEN PRIORITIZING AN USER STORY?:
+A. Complexity.
+B. Money.
+C. Value.
+D. All of them.
+ANSWER: C
+
+A02-L12-Q25- WHICH STATEMENT ABOUT DAILY SCRUM MEETING IS TRUE:
+A. It is not aimed at solving problems.
+B. Everyone can attend it.
+C. Lasts up to 15 minutes.
+D. All of them.
+ANSWER: D

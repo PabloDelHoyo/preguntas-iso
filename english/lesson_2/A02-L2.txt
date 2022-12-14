@@ -1,0 +1,139 @@
+A02-L2-Q01- VERSION NUMBER TAKE THE FORM OF X.Y.Z, WHERE:
+A. X = minor, Y = major, Z = patch.
+B. X = major, Y = minor, Z = patch.
+C. X = patch, Y = major, Z = minor.
+D. X = major, Y = patch, Z = minor.
+ANSWER: B
+
+A02-L2-Q02- MVP IN TERMS OF SOFTWARE ENGINEERING IS AN ABBREVIATION FOR:
+A. Most Valuable Player.
+B. Minimum Version Produced.
+C. Maximum Viable Product.
+D. Minimum Valiable Product.
+ANSWER: D
+
+A02-L2-Q03- WHICH STATEMENT ABOUT RELEASE IS NOT TRUE:
+A. Published software package of an application always contain all of that application.
+B. It is a software version formally made available to the community.
+C. It is a collection of configuration items that have been added/changed, tested and introduced into the software.
+D. Alpha release is the first phase to begin software testing.
+ANSWER: A
+
+A02-L2-Q04- CHOOSE THE SENTENCE DESCRIBING CORRECTLY A DEVELOPMENT BRANCH:
+A. It always has a code ready to be deployed in the production environment.
+B. We use this as a basis to create the branches for the new functionalities.
+C. Here are developed new functionality features.
+D. Here the pre-production version is tested and defects are corrected.
+ANSWER: B
+
+A02-L2-Q05- WHICH OF THE NEXT VERSIONS DEFINES THE PUBLIC API?:
+A. Version 1.1.1.
+B. Version 0.0.0.
+C. Version 1.0.0.
+D. Version 0.1.1.
+ANSWER: C
+
+A02-L2-Q06- WHAT IS THE GOAL OF THE MASTER BRANCH?:
+A. Has code ready to be deployed in the production environment.
+B. Correct the defects previously detected.
+C. Check if the defects have been corrected.
+D. None of the answers are correct.
+ANSWER: A
+
+A02-L2-Q07- EVERY RELEASE COULD INCLUDE:
+A. System executable code.
+B. Electronic and written documentation describing the system.
+C. Data files.
+D. Configuration files that define how the release should be configured.
+ANSWER: D
+
+A02-L2-Q08- WHICH OF THE FOLLOWING IS NOT AN ACTIVITY OF THE CONFIGURATION MANAGEMENT?:
+A. Change Management.
+B. Version Management.
+C. Static Management.
+D. Relese Management.
+ANSWER: C
+
+A02-L2-Q09- WHAT IS THE PURPOSE OF SCM:
+A. It is to manage and control system elements and configurations during the life cycle. 
+B. It is manage internal software and hardware configuration of the program execution.
+C. It is eliminate consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
+D. All questions above are false.
+ANSWER: A
+
+A02-L2-Q10- WHAT AFFIRMATION ABOUT SCM IS TRUE:
+A. It do not include version control.
+B. It updates each team member’s code parallelly by considering different version control.
+C. Tracking and managing the changes in the software development process
+D. Both B and C are correct
+ANSWER: D
+
+A02-L2-Q11- WHAT ARE THE ADVANTAGES OF SCM:
+A. To increase the productive efficiency of software as it controls and tracking the workflow or development process.
+B. It will help to enhance the software development life cycle process.
+C. This process provides a reliable, organized, cost-effective and low-risk software development application.
+D. All answers are correct
+ANSWER: D
+
+A02-L2-Q12- WHAT ARE THE DISADVANTAGES OF SCM :
+A. It provides a low-quality software product.
+B. It  do not need an adequate resources with full knowledge about the software configuration management tools.
+C. It requires more resources to work with the configuration management process for small industries.
+D. It welcomes change management so the risk of the product will increase.
+ANSWER: C
+
+A02-L13-Q13- The M.m.p format is:
+A. Major.Minor.Path.
+B. Minor.Major.Path.
+C. Maximum.Minimum.Path.
+D. All the other answers are wrong.
+ANSWER: A
+
+A02-L13-Q14- VERSION MANAGEMENT IS EQUAL TO:
+A. Processes of managing schedules.
+B. Processes of managing lines of code and baselines.
+C. Processes of managing programs.
+D. All the answers are correct.
+ANSWER: B
+
+A02-L13-Q15- One application to manage versions is:
+A. Eclipse.
+B. Visual Studio.
+C. Git.
+D. Visual Paradigm.
+ANSWER: C
+
+A02-L13-Q16- THE PURPOSE OF CONFIGURATION MANAGEMENT IS:
+A. To manage and control system versions.
+B. To manage and control system elements.
+C. To manage and execute system versions.
+D. All other answers are wrong.
+ANSWER: B
+
+A02-L2-Q17- WHAT IS A TOPIC BRANCH?:
+A. It is another way of referring to the master or main branch. 
+B. It is a short-lived branch normally used to implement a feature or fix an error.
+C. In Git, it is the kind of ref used to mark important commits in the commit history.
+D. It is the branch which contains stable and deployable code.
+ANSWER: B
+
+A02-L2-Q18- WHEN USING SEMVER TO NAME THE DIFFERENT VERSIONS OF AN API, WHICH NUMBER YOU SHOULD INCREASE WHEN YOU MAKE INCOMPATIBLE API CHANGES?:
+A. Major.
+B. Minor.
+C. Patch.
+D. You don't increase any number but add a label.
+ANSWER: A
+
+A02-L2-Q19- WHEN USING SEMVER TO NAME THE DIFFERENT VERSIONS OF AN API, WHICH NUMBER YOU SHOULD INCREASE YOU ADD FUNCTIONALITY INA BACKWARDS COMPATIBLE WAY?:
+A. Major.
+B. Minor.
+C. Patch.
+D. You don't increase any number but add a label.
+ANSWER: B
+
+A02-L2-Q20- A PULL REQUEST:
+A. Is a mandatory element in every git workflow.
+B. Is a discussion thread about commits on a certain branch which want to be merged to another one.
+C. Is found in every git remote.
+D. Is a kind of permission granted to several files in a repository.
+ANSWER: B

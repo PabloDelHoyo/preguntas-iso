@@ -1,0 +1,111 @@
+A02-L3-01-Q1- WHAT DOES NON-REPUDATION MEAN IN THE CONTEXT OF COMPUTER SECURITY?:
+A. It refers to the situation where something done by someone cannot be denied by that person.
+B. Property of quality consisting of information being limited to a set of authorized people.
+C. Property of quality consisting in which one can be sure that that the information at hand has been modified.
+D. Non repudation is not related to computer security.
+ANSWER: A.
+
+A02-L3-01-Q2- WHICH OF THE FOLLOWING COULD BE A DEFINITION OF QUALITY?:
+A. Fitness for use.
+B. Extent to which a set of inherent characteristcs meet requirements.
+C. Economic loss that a product provokes to society from the time of issue.
+D. All the other answers all correct.
+ANSWER: D.
+
+A02-L3-01-Q3- WHICH OF THE FOLLOWING IS NOT A STEP IN THE CONTINOUSLY IMPROVEMENT CYCLE?:
+A. Plan.
+B. Do.
+C. Feedback.
+D. Act.
+ANSWER: C.
+
+A02-L3-01-Q4- WHICH OF THE FOLLOWING SET OF STANDARDS HAVE TO DO WITH QUALITY MEASUREMENT?:
+A. ISO/IEC 2500n.
+B. ISO/IEC 2502n.
+C. ISO/IEC 2501n.
+D. None of them.
+ANSWER: B.
+
+A02-L3_01-Q5- WHICH OF THIS IS NOT A CHARACTERISTIC OF QUALITY:
+A. Multi-dimensional.
+B. It is absolute.
+C. It has some restrictions.
+D. Linked to commitments.
+ANSWER: B.
+
+A02-L3-01-Q6- QUALITY CONTROL IS:
+A. Part of the Quality Management aimed at meeting the quality requirement.
+B. Part of the Quality Management aimed at assuring trustworthiness or confidence that quality requierements will be met.
+C. Part of the Quality Management aimed at assuring that the product will meet quality requirements.
+D. All other answers are correct.
+ANSWER: A.
+
+A02-L3-01-Q7- CORRECTION IS:
+A. Taken action on a product to transform a product into usable according to the intended use.
+B. Taken action on a non-conformant product to impede their potential intended use.
+C. Taken action to fix a detected non-conformity.
+D. Any of the previous answers is correct.
+ANSWER: C.
+
+A02-L3-01-Q8- QUALITY FOLLOWS:
+A. A continuously development cycle.
+B. An uncontinuously improvement cycle.
+C. A continuously improvement cycle.
+D. Any of the other answers is correct.
+ANSWER: C.
+
+A02-L3-01-Q9- VERSION NUMBER TAKE THE FORM OF X.Y.Z, WHERE:
+A. X = minor, Y = major, Z = patch.
+B. X = major, Y = minor, Z = patch.
+C. X = patch, Y = major, Z = minor.
+D. X = major, Y = patch, Z = minor.
+ANSWER: B.
+
+A02-L3-01-Q10- MVP IN TERMS OF SOFTWARE ENGINEERING IS AN ABBREVIATION FOR:
+A. Most Valuable Player.
+B. Minimum Version Produced.
+C. Maximum Viable Product.
+D. Minimum Valiable Product.
+ANSWER: D.
+
+A02-L3-01-Q11- WHICH STATEMENT ABOUT RELEASE IS NOT TRUE:
+A. Published software package of an application always contain all of that application.
+B. It is a software version formally made available to the community.
+C. It is a collection of configuration items that have been added/changed, tested and introduced into the software.
+D. Alpha release is the first phase to begin software testing.
+ANSWER: A.
+
+A02-L3-01-Q12- CHOOSE THE SENTENCE DESCRIBING CORRECTLY A DEVELOPMENT BRANCH:
+A. It always has a code ready to be deployed in the production environment.
+B. We use this as a basis to create the branches for the new functionalities.
+C. Here are developed new functionality features.
+D. Here the pre-production version is tested and defects are corrected.
+ANSWER: B.
+
+A02-L3_01-Q13- Select the incorrect meaning of quality:
+A. Good quality, or excellence.
+B. Condition or requirement stated in a contract.
+C. Products or services with the highest price.
+D. Inherent characteristic or set of inherent characteristics that enables a judgement about the value.
+ANSWER: C
+
+A02-L3_01-Q14- Which are the steps order of the quality management cycle?:
+A. Plan-Do-Check-Act
+B. Act-Do-Check-Plan
+C. Plan-Check-Do-Act
+D. Plan-Act-Check-Do
+ANSWER:A
+
+02-L3_01-Q15- Which of the following characteristics is related to the concept of reliability?:
+A. Maturity.
+B. Availability.
+C. Fault tolerance.
+D. All of them are correct.
+ANSWER:D
+
+02-L3_01-Q16- What is the sentence that we must remember if we talk about the product quality?:
+A. Do well things.
+B. Do things.
+C. Do well good things.
+D. Do good things.
+ANSWER:C

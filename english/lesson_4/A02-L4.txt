@@ -1,0 +1,139 @@
+A02-L4-Q01- SELECT THE CORRECT DEFINITION OF ERROR:
+A. Mistake made by a person.
+B. Deviation regarding the expected, required behaviour of the system.
+C. Throws an exception in the program.
+D. None of the answers is correct.
+ANSWER: A
+
+A02-L4-Q02- WHICH OF THE FOLLOWING CHARACTERISTICS RELATED TO FUNCTIONAL TESTS IS FALSE?:
+A. Inputs/outputs are known.
+B. Elements under test executed with a set of input data.
+C. Output data is compared with expected data.
+D. Output data is not observed.
+ANSWER: D
+
+A02-L4-Q03- WHICH MODEL FOR TESTING WE MUST PERFORM TO THE REQUIREMENT ANALYSIS?:
+A. Acceptance Test Design.
+B. System Test Design.
+C. Integration Test Design.
+D. Unit Test Design.
+ANSWER: A
+
+A02-L4-Q04- DESCRIBE THE SITUATION IN WHICH WE ACHIEVE THE CONDITION COVERAGE IN A TEST:
+A. It is met when at least one condition  is evaluated to true and false at least once.
+B. It is met when every condition is evaluated to true and false at least once.
+C. It is met when every condition is evaluated to true at least once.
+D. It is met when every condition is evaluated to false at least once.
+ANSWER: B
+
+A02-L4-Q05- WHICH STATEMENT ABOUT A BLACK BOX (IN TERMS OF TESTING) IS NOT TRUE:
+A. Inputs/outputs are known.
+B. They are not outputting anything.
+C. Output data is observed.
+D. Output data is compared with expected data.
+ANSWER: B
+
+A02-L4-Q06- WHICH IS NOT A STRATEGY OF COVERAGE CRITERIA:
+A. Each use.
+B. Pairwise.
+C. N-wise.
+D. No use.
+ANSWER: D
+
+A02-L4-Q07- DEFECT:
+A. Is a mistake made by a person.
+B. Is an error doing any activity concerning software (perceived by testers).
+C. Deviation regarding the expected, required behaviour of the system (detected by users)
+D. Can be random or systematic.
+ANSWER: B
+
+A02-L4-Q08- A TEST CASE IS NOT:
+A. A set of input values.
+B. A set of expected results.
+C. One of more test suites.
+D. A set of pre-conditions for execution.
+ANSWER: C
+
+A02-L4-Q09- IS NOT A STRATEGY TO SELECT BOUNDARY VALUES:
+A. Lightweight variant.
+B. Heavy variant.
+C. High variant.
+D. All others are correct.
+ANSWER: C
+
+A02-L4-Q10- WHICH IS AN ADVANTAGE OF MUTATION TESTING?:
+A. It can be used as an indicator of how good or bad is a test suite.
+B. Expensive (It’s time consuming) to generate mutations.
+C. Huge number of mutants → It spends a lot of time on testing the test suite with every mutant.
+D. It’s not applicable for all projects since it implies in somehow .to modify source code (white box testing).
+ANSWER: A
+
+A02-L4-Q11- WHICH IS A DISADVANTAGE OF MUTATION TESTING?:
+A. It can be used as an indicator of how good or bad is a test suite.
+B. It allows to improve a test suite in an iterative process.
+C. It figures out ambiguities in the source code under testing.
+D. Expensive (It’s time consuming) to generate mutations.
+ANSWER: D
+
+A02-L4-Q12- IS NOT AN EXAMPLE OF TEST-BASED METHODOLOGIES:
+A. TDD (Test-Driven Development).
+B. ADD (Acceptance-Driven Development).
+C. BDD (Behavior-Driven Development).
+D. ATDD (Acceptance-Behavior-Driven Development).
+ANSWER: B
+
+A02-L4-Q13- IN TESTING:
+A. Testing must be done with unexpected and negative inputs.
+B. Software can never be 100% bug-free.
+C. The time available is limited and we must prioritize sections.
+D. All of the answers are correct.
+ANSWER: D
+
+A02-L4-Q14- WHAT ARE ADVANTAGES OF BLACKBOX TESTING:
+A. We must do the identification of equivalence class and generate the test cases .
+B. Do not feature Functional Testing or Regression Testing.
+C. Test cases are hardly reproducible.
+D. None of the previus answers are true.
+ANSWER: A
+
+A02-L4-Q15- WHAT ARE DISADVANTAGES OF BLACKBOX TESTING:
+A. Always the reason for the test failure can be detected.
+B. Without clear functional specifications, test cases are difficult to implement.
+C. All programs in the application are tested.
+D. It always reveal the errors in the control structure.
+ANSWER: B
+
+A02-L4-Q16- IN WHITE BOX TESTING :
+A. Tester should understand the code well and should write some code for test Cases and execute them.
+B. It is not necessary to understand code well and is hard to automate.
+C. Always it is not necessary to write code for test cases and is hard to automate.
+D. We have a hard code optimization.
+ANSWER: A
+
+A02-L4-Q17- HOW MANY KINDS OF TESTING THERE EXIST?:
+A. 5.
+B. 4.
+C. 3.
+D. 6.
+ANSWER: A
+
+A02-L4-Q18- TDD DEVELOPMENT ... :
+A. Consist of writing software must follow the best practices and pass the test cases.
+B. Main goal is is to pass the test cases. Refactoring may be done later.
+C. States that it is not necessary to reason why the test cases failed before the implementation is been done.
+D. Is very common in traditional methodologies.
+ANSWER: B
+
+A02-L4-Q19- WHICH OF THE FOLLOWING IS TRUE REGARDING THE STRATEGIES FOLLOWED TO COMBINE VALUES FOR A TEST CASE?
+A. The Cartesian product is always the best strategy and should be the first one considered. 
+B. The Cartestian product is a special case of the N-wise strategy for a specific value of N.
+C. Pairwise is not as complete as other methods but for most cases, it is good enough.
+D. The programmers should combine the values using their intuitions.
+ANSWER: C
+
+A02-L4-Q20- WHICH IS ONE OF THE MOST USED TESTING FRAMEWORK FOR JAVA?
+A. The one implemented in the standard library.
+B. Log4.
+C. Maven.
+D. JUnit.
+ANSWER: D

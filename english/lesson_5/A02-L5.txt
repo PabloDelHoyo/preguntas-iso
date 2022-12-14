@@ -1,0 +1,164 @@
+A02-L5-Q01- WHICH IS NOT A TYPE OF MAINTENANCE:
+A. Perfective Maintenance.
+B. Corrective Maintenance.
+C. Adaptive Maintenance.
+D. Perfect Maintenance.
+ANSWER: D
+
+A02-L5-Q02- ADAPTING THE SYSTEM TO ENVIRONMENTAL CHANGES IS:
+A. An adaptive maintenance.
+B. An perfective maintenance.
+C. An preventive maintenance.
+D. An corrective maintenance.
+ANSWER: A
+
+A02-L5-Q03- WHICH OF BELOW IS NOT A PART OF THE MAINTENANCE ORGANIZATION:
+A. Claim manager.
+B. Customer.
+C. Planner.
+D. Maintenance team.
+ANSWER: B
+
+A02-L5-Q04- WHICH IS NOT A SUBCHARACTERISTICS OF MAINTAINABILITY DEFINED IN ISO 25010:2011:
+A. Modularity.
+B. Reusability.
+C. Inalterability.
+D. Testability.
+
+ANSWER: CA02-L5-Q01- WHICH IS NOT A TYPE OF MAINTENANCE:
+A. Perfective Maintenance.
+B. Corrective Maintenance.
+C. Adaptive Maintenance.
+D. Perfect Maintenance.
+ANSWER: D
+
+A02-L5-Q02- ADAPTING THE SYSTEM TO ENVIRONMENTAL CHANGES IS:
+A. An adaptive maintenance.
+B. An perfective maintenance.
+C. An preventive maintenance.
+D. An corrective maintenance.
+ANSWER: A
+
+A02-L5-Q03- WHICH OF BELOW IS NOT A PART OF THE MAINTENANCE ORGANIZATION:
+A. Claim manager.
+B. Customer.
+C. Planner.
+D. Maintenance team.
+ANSWER: B
+
+A02-L5-Q04- WHICH IS NOT A SUBCHARACTERISTICS OF MAINTAINABILITY DEFINED IN ISO 25010:2011:
+A. Modularity.
+B. Reusability.
+C. Inalterability.
+D. Testability.
+ANSWER: C
+
+A02-L5-Q05- THE PURPOSE OF THE MAINTENANCE PROCESS IS:
+A. To sustain the capability of the system to provide a service.
+B. To test all functional requirenments.
+C. To finish the life cycle of a software.
+D. Any of the others is correct.
+ANSWER: A.
+
+A02-L5-Q06- WHICH IS NOT A SUBTYPE OF PERFECTIVE MAINTENANCE?:
+A. Extension maintenance.
+B. Adaptive maintenance.
+C. Performance maintenance.
+D. It has no subtypes.
+ANSWER: B.
+
+A02-L5-Q07- WHICH IS NOT A TECHNICAL MAINTENANCE SOLUTION?:
+A. Reverse engineering.
+B. Restructuring.
+C. Direct engineering.
+D. All others are technical maintenance solutions.
+ANSWER: C.
+
+A02-L5-Q08- WHAT IS THE MEANING OF F.I.R.S.T?:
+A. Fast, independent, reusable, self-validating, timely.
+B. Fast, ilustrative, repeatable, self-validating, timely.
+C. Fast, independent, repeatable, specific, timely.
+D. Fast, independent, repaetable, self-validating, timely.
+
+ANSWER: D.A02-L5-Q09- WHICH TYPE OF MAINTENANCE HAS A HIGHEST RELATIVE COST?:
+A. Corrective.
+B. Preventive.
+C. Adaptative.
+D. Perfective.
+ANSWER: D
+
+A02-L5-Q10- WHICH OF THE FOLLOWING SITUATIONS WILL BE A GOOD PRACTICE OF STRUCTURED MANAGEMENT?:
+A. Know and understand the control flow of the program.
+B. To use compilers and analysers.
+C. To add error checking,regression testing,etc.
+D. All of them are correct.
+ANSWER: D
+
+A02-L5-Q11- SELECT AN EXAMPLE OF REVERSE ENGINEERING:
+A. Java code → UML diagrams.
+B. Source code → binary code.
+C. UML diagrams → Java code.
+D. All of them are correct.
+ANSWER: A
+
+A02-L5-Q12- WHAT DOES IT MEANS THE "KISS" PRINCIPLE?:
+A. We should leave the code cleaner than we found it
+B. Focus on simple things that make software works.
+C. Keep as simple as possible instead of implementing artificially complex.
+D. Avoid duplicated code.
+
+ANSWER: CA02-L5-Q13- WHY THE NEED OF SOFTWARE MAINTENANCE MAY ARISE?:
+A. Technical obsolence of the system.
+B. Changes to interfaced system or infrastructure.
+C. Evolving security threats.
+D. All of the other answers are correct.
+ANSWER: D
+
+A02-L5-Q14- HOW IS THE "BROKEN WINDOW" THEORY APPLIED IN THE CONTEXT OF MAINTENABILITY?:
+A. If a team does not provide good maintenability levels, then other team team member probably act in a similar way.
+B. If a set of people simultanously hold two or more contradictory beliefs, ideas or values then the will produce new ones to reduce the stress. 
+C. This theory has no application when maintaining software.
+D. If a teammate broke the code then another person other than that will have to fix it.
+ANSWER: A
+
+A02-L5-Q15- WHICH OF THE FOLLOWING ARE GOOD PRINCIPLES TO APPLY WHEN PROGRAMMING?:
+A. DRY.
+B. KISS.
+C. All the other answers are correct.
+D. YAGNI.
+ANSWER: C
+
+A02-L5-Q16- WHICH OF THE FOLLOWING IS CONSIDERED A MEASURE OF THE LEVEL OF MAINTANABILITY THAT A SOFTWARE PROJECT HAS?
+A. Cyclomatic complexity.
+B. Idiomatic code.
+C. The LOC.
+D. Number of commits done (the more, the better).
+ANSWER: A
+
+A02-L5-Q17- WHAT IS A ACEPTABLE DEFINITION FOR MAITENANCE MANAGEMENT PHASE IN SOFTWARE MAINTENANCE?:
+A. This phase involves configurations and version controlling of the software artifacts associated with the implemented software. It is a relevant process for patch releases and iterative phases.
+B. This phase deals with maintain deployments and enabling the maintain features and fixes to the software.
+C. This phase involves the testing resources to check the new manganese feature or configurations.
+D. All of the other answers are flase.
+ANSWER: A
+
+A02-L5-Q18- WHAT IS A ACEPTABLE DEFINITION FOR CORRECTIVE MAITENANCE:
+A. This type of maintenance involves the updating and modification of the software after delivery to accommodate up-to-date technology changes and industry needs.
+B. This type is the reactive modification to the software after delivery to correct the problems that are identified by the users or by the error reports collected over a period of time.
+C. This type of activity is related to modification and applying the updates to the software after delivery to prevent possible faults in the future. These include fixing the minor issues that are not significant at the moment, however, those can be effective faults at a later point in time.
+D. This type is related to the enhancements and modifications to the delivered software for increasing the performance, usability, reliability, and maintainability
+ANSWER: B
+
+A02-L5-Q19- ADVANTAGES OF SOFTWARE MAINTENANCE:
+A. Regular support and service from the software vendor.
+B. Reduces operational costs.
+C. Eligible to upgrade to the latest version of the software with minimal effort.
+D. All options are true.
+ANSWER: D
+
+A02-L5-Q20- DISADVANTAGES OF SOFTWARE MAINTENANCE:
+A. Always,there won't be temporary downtime to the production of the business, while the changes are applied and configured.
+B. Scale the business with the implemented software stack.
+C. The software maintains phase is associated with different parties and time constraints and the additional change management plan for the integrated applications to adapt to the changes.
+D. All options are false.
+ANSWER: C
