@@ -1,0 +1,177 @@
+A03-L32-Q01-In software development projects, "Capability" can also be called
+A. Organization.
+B. Effort.
+C. Process.
+D. Methodology.
+ANSWER: C
+ 
+A03-L32-Q02-How do we define the concept of "Maturity"?
+A. The maturity level is equal to the MINIMUM level that is reached by ALL of our capabilities / processes (lowest process level).
+B. The maturity level is equal to the MAXIMUM level that is reached by ONE of our capabilities / processes (highest process level).
+C. The maturity level is equal to the AVERAGE level that is reached by ALL of our capabilities / processes (average process level).
+D. The maturity level is unrelated to the level of our capabilities / processes and awarded by an auditor.
+ANSWER: A
+ 
+A03-L32-Q03-If we think about the "B2" certification of a language as a maturity level, what could we call "Usage of simple future", "Usage of future perfect", "Being able to understand a speaker in a loud rood" and so on? 
+A. Resources.
+B. Levels.
+C. Models.
+D. Capabilities.
+ANSWER: D
+ 
+A03-L32-Q04-What does a Process Reference Model provide?
+A. Certification guidelines to judge the maturity of an organization.
+B. Good practices for various processes.
+C. Mechanisms to improve processes (Making them better than they used to be).
+D. No description above is correct.
+ANSWER: B
+ 
+A03-L32-Q05-What does CMMI stand for?
+A. Capabilities Maturities Measurements Integrations.
+B. Control Maturity Model Integration.
+C. Capability Maturity Model Integration.
+D. Capability Model Maturity Integration.
+ANSWER: C
+
+A03-L32-Q06-Can we say that if a software product is good for what it has been developed it has quality?
+A.- No, only fits for the purpose.
+B.- Yes, but it doesn't mean the product is perfect or it couldn't be improved.
+C.- No, because quality is related to the visual part of the software.
+D.- None of them.
+ANSWER: B
+
+A03-L32-Q07-What does it mean a software is conformable?
+A.- It's a software which it's okay, but not very good.
+B.- The software it's not finished.
+C.- The software fits for its purpose.
+D.- None of them.
+ANSWER: C
+
+A03-L32-Q08-Quality should have a preventive part?
+A.- Yes, because it solves some non conformance situations.
+B.- No, it doesn't matter. 
+C.- Quality is only for the end of the process.
+D.- None of the above.
+ANSWER: A
+
+A03-L32-Q09-Which characteristics a portable software has?
+A.- Adaptability, capability to be installed, capability to be replaced.
+B.- Adaptability, capability to be installed.
+C.- Adaptability, capability to be replaced. 
+D.- Only adaptability as you can use it on any device with that.
+ANSWER: A
+
+A03-L32-Q10-What does it mean an enterprise is mature?
+A.- It has been in the business for a long time.
+B.- It does more software processes and it makes them better.
+C.- The enterprise has a lot of sales.
+D.- The enterprise is the same as quality.
+ANSWER: B
+
+A03-L32-Q11-Which of these concepts it´s not a concept of quality.
+A.- Fitness for use
+B.- Extent to which a set of inherent characteristics meet requirements
+C.- Meeting requirements and reliability on the working.
+D.- Some unimportants defects 
+ANSER: D
+
+WA03-L32-Q12-hat is the definition of Quality plan?
+A.- Part of the Quality Management focused on the statement of the quality goals and the specification of the required operative processes for the resources to meet the quality goals.
+B.- global intentions and orientation of an organization relative to the quality as expressed by the high-Management.
+C.- Part of the Quality Policy focused on the statement of the quality defects and the specification of the required operative processes for the resources.
+D.- Part of the Quality Management aimed at assuring trustworthiness or confidence that quality requirements will be met.
+ANSWER: A
+
+A03-L32-Q13-Assessment Types of Software process quality
+A.- Capability
+B.- Maturity
+C.- Expense
+D.- A and B are true
+ANSWER: D
+
+A03-L32-Q14-Which of these is a Process assessment rule:
+A.- ISO 33000
+B.- ISO 12207
+C.- ISO 27000
+D.- ISO 17309
+ANSWER: A
+
+A03-L32-Q15-What is the process assessment ISO 33000
+A.- Level 0 Incomplete, level 1 Performed, Level 2 Managed, level 3 established, level 4 Predictable, level 5 Optimizing
+B.- Level 0 Optimizing, level 1 Predictable, Level 2 established, level 3 Managed, level 4 Performed, level 5 Incomplete
+C.- Level 0 complete, level 1 achieved, Level 2 Managed, level 3 standby , level 4 Predictable, level 5 feasible
+D.- All of the sentences are false
+ANSWER: A
+
+A03-L03-Q16: Which of the Quality Characteristics is wrong?
+A. Quality characteristics are not independant
+B. Multi dimensional
+C. It is absolute
+D. Has some restrictions
+ANSWER:C
+
+A03-L03-Q17: Which one related to Quality is wrong?
+A. Conformance: only compliance with customer requests
+B. Preventive Action: Taken action to fix the root causes of a non conformance or any other potentially undesirable situation
+C. Quality Management System: management system to manage and control an organization with respect to quality
+D. Quality Policy: global intentions and orientation of an organization relative to the quality as expressed by the high-Management
+ANSWER: A
+
+A03-L03-Q18: Which of the Quality Assessment steps is correct?
+A. Conduct the assessment - Specify assessment -  Design assessment - Establish assessment requirement - End assessment
+B. Specify assessment - Conduct the assessment - Design assessment - Establish assessment requirement - End assessment
+C. Establish assessment requirement - Specify assessment - Conduct the assessment -  Design assessment - End assessment
+D. Establish assessment requirement - Specify assessment - Design assessment - Conduct the assessment - End assessment
+ANSWER: D
+
+A03-L03-Q19: Quality of a software product largely depends on manufacturing (development) process. To achieve adequate levels of quality, it is necessary that: 
+Which one is wrong?
+A. The process produces the unexpected results
+B. The process is grounded on a sound defintion
+C. The process produces the expected results
+D. The process can be improved according to the business goals
+ANSWER: A
+
+A03-L03-Q20: Which option gives the correct definition of  Defect or bug?
+A.Error doing any activity concerning software (perceived by testers)
+B.Mistake made by a person (in this context, a software engineer).
+C.Deviation regarding the expected, required behaviour of the system  (detected by users)
+D.The most common type is based on the comparison between the expected  and actual output of a test case.
+ANSWER: A
+
+A03-L03-Q21-What is Quality model?:
+A. Set of quality characteristics.
+B. Criterium to judge quality.
+C. Part of the Quality Management aimed at meeting the quality
+requirement.
+D. Part of the Quality Management aimed at assuring
+trustworthiness or confidence that quality requierements will be met.
+ANSWER: A
+
+A03-L03-Q22-Which of these ones is not part of Functional Adequacy?:
+A. Maturity.
+B. Completeness.
+C. Correctness.
+D. Adequacy.
+ANSWER: A
+
+A03-L03-Q23-Which one is part od Compatibility?:
+A. Integrity.
+B. Coxistence.
+C. Interoperability.
+D. B and C are correct.
+ANSWER: D
+
+A03-L03-Q24-To achieve an adequate level of quality, what is necessary?:
+A. The process produces the expected results.
+B. The process is grounded on a sound defintion.
+C. All are correct.
+D. The process can be improved according to the business goals.
+ANSWER: C
+
+A03-L03-Q25-How many levels of maturity does AENOR_AQCLab Model has?:
+A. 2.
+B. 3.
+C. 4.
+D. 5.
+ANSWER: D

@@ -1,0 +1,196 @@
+A03-L32-Q01-Which is testing objetive?
+A.- Show the program works properly.
+B.- Find errors before the project goes to production.
+C.- To make sure all the client wants is in the project.
+D.- None of the above.
+ANSWER: B
+
+A03-L32-Q02-If the programmer makes a mistake while coding, which type of error it would be?
+A.- Random errors.
+B.- Systematic errors.
+C.- Failure error. 
+D.- Testing error.
+ANSWER: B
+
+A03-L32-Q03-Which is the difference between a Test Case and a Test Suite?
+A.- They are the same.
+B.- A Test Suite is a combination of Test Cases.
+C.- A and B are false.
+D.- None of the above.
+ANSWER:B
+
+A03-L32-Q04-Which are the Levels of Testing?
+A.- Black box and White box.
+B.- Only Black box.
+C.- Only White box.
+D.- There are no levels in testing, as all of the code should be tested with all of the cases that could happen. 
+ANSWER: A.
+
+A03-L32-Q05-What is an Unitary Test?
+A.- They are focused on one class, a concrete method or a subsystem.
+B.- Is a test of the whole project at the same time. 
+C.- Is only the test of one method of one class.
+D.- None of the above.
+ANSWER: A.
+
+A03-L41-Q06-What does a test case NOT contain?
+A. A set of input values.
+B. A set of expected results.
+C. A set of post-conditions after execution.
+D. A set of steps to follow whenever a test fails (troubleshooting).
+ANSWER: D
+
+A03-L41-Q07-A test case defines...?
+A. A concrete condition to be reached.
+B. A functional requirement.
+C. A use case.
+D. The documentation of a problem.
+ANSWER: A
+
+A03-L41-Q08-Who should NOT be checking code for errors?
+A. An employee from a different company specialized on testing.
+B. The developer who wrote that code.
+C. An employee specialized on testing.
+D. A freshman student on their first day of the job as a software tester.
+ANSWER: B
+
+A03-L41-Q09-If, in a test scenario, we only know about the input and the output of a function, but not the function itself, what test level are we talking about?
+A. An obfuscation test.
+B. A white box test.
+C. A black box test.
+D. A structural test.
+ANSWER: C
+
+A03-L41-Q10-What do we know in a black box test scenario?
+A. The input and output data.
+B. The internal structure of the program.
+C. The coverage of the executed code.
+D. Other functions that were used within that code.
+ANSWER: A
+
+A03-L04-Q011-Select the false statement from Black box test:
+A. Output data is observed.
+B. Inputs are unknown.
+C. Elements under test executed with a set of input data.
+D. Outputs are known.
+ANSWER: B
+
+A03-L04-Q012-Which is not a V-Model for testing?
+A. Acceptance test design.
+B. System test design.
+C. Integration test design.
+D. Coding test design.
+ANSWER: D
+
+A03-L04-Q13-Which is not a system test subtype?
+A. Performance test.
+B. Security test.
+C. Recognition test.
+D. Stress test.
+ANSWER: C
+
+A03-L04-Q14-Which is not a coverage criteria strategy?
+A. Each use.
+B. Pairwise.
+C. N-wise.
+D. All are coverage criteria strategy.
+ANSWER: D
+
+A03-L04-Q15- Select the test-based methodology:
+A. TDD.
+B. All are test-based methodologies.
+C. BDD.
+D. ABDD.
+ANSWER: B
+
+A03-L04-Q16-About the unit tests..
+A.	Application focused on the “test unit”.
+B.	They are focused on software architecture.
+C.	Quite similar to system tests.
+D.	Owing to its nature, black box tests and usually executed manually.
+ANSWER: A
+A03-L04-Q17-The heavy variant.
+A.	In addition to values taken by previous variant, it takes next and previous values to the boundary ones of the current equivalence class.
+B.	It takes boundary values of the current equivalence class as well as boundary values of the adjacent class.
+C.	It takes random values .
+D.	It takes values that are given from the client.
+E.	ANSWER: A
+A03-L04-Q18-What is the key to the tests success?
+A.	Usage of appropiate values.
+B.	Usage random values.
+C.	Usage the values that we know are successful.
+D.	Usage only false values.
+ANSWER: A
+A03-L04-Q19-What is Conditions/Decision coverage?
+A.	It is met when every condition is true and false and the whole truth table for the decision is considered.
+B.	It is met when every condition and decision are evaluated to true and false at least once.
+C.	Can detect the highest number of failures.
+D.	It can be assumed the program will behave in the same way for any value of the equivalence class.
+ANSWER: B
+A03-L04-Q20-About the Boundary values.
+A.	This strategy selects values that the client give us.
+B.	This strategy selects values that we know their result.
+C.	This strategy selects values in the equivalence class boundaries.
+D.	This strategy selects random values.
+ANSWER: D
+
+A03-L4-Q21 The definition 'set of input values, pre-conditions for execution, expected results, post-conditions after executions, with a concrete goal' belongs to:
+
+A) ORACLE
+
+B) Test Case
+
+C) Defect / BUG
+
+D) Failure
+
+ANSWER: B
+
+A03-L4-Q22 Which is NOT a mutation generation advantages?
+
+A) Mutation generation can be used as indicator of quality of the test suite
+
+B) Mutation generation figures out ambiguities in the source code under testing
+
+C) Mutation generation is not applicable for all projects.
+
+D) Mutation generation allows to improve a test suite in an interative process.
+
+ANSWER: C
+
+A03-L4-Q23 Test Driven Methodologies... 
+
+A) Drives the design and creation of a software starting from tests.
+
+B) Drives the design and creation of a software but using a higher abstraction level.
+
+C) Is used in terms of business goals.
+
+C) No one is correct.
+
+ANSWER: A
+
+A03-L4-Q24 Types of Coverage are:
+
+A. Statement Coverage, Decision Coverage, Condition Coverage, Condition/Decision Coverage, Multiple Condition Coverage, Modified condition/decision coverage
+
+B. Decision Coverage, Condition Coverage, Condition/Decision Coverage, Mutation Coverage, Multiple Condition Coverage, Modified condition/decision coverage
+
+C. Statement Coverage, Condition Coverage, Condition/Decision Coverage, Multiple Condition Coverage, Modified condition/decision coverage
+
+D. Statement Coverage, Mutation Coverage, Decision Coverage, Multiple Condition Coverage, Modified condition/decision coverage. 
+
+ANSWER: A.
+
+A03-L4-Q25 What is the goal of Integration Tests?
+
+A. Its focused on the 'test unit'.
+
+B. Check that tests units works well after integrating the tested classes.
+
+C. Check whether the system behaves appropiately with its environment or not.
+
+D. Check whether the system behaves appropiately with its environment or not, but this function is executed by the customer that contracted the software.
+
+ANSWER: B. 
+

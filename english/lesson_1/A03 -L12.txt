@@ -1,0 +1,104 @@
+A03-L11-Q01-Which of these descriptions fits best for describing a traditional development methodology when compared to an agile methodology?:
+A. Parallel.
+B. Practical.
+C. Predictive.
+D. Protective.
+ANSWER: C
+
+A03-L11-Q02-What is UDP?:
+A. A Stakeholder.
+B. A Proces.
+C. An Activity. 
+D. A Methodology.
+ANSWER: D
+
+A03-L11-Q03-Which of these steps is NOT prt of the inception phase of UDP?:
+A. Identify funcitional requirements.
+B. Estimate cost.
+C. Creation of the architecture baseline.
+D. Estimate work hours.
+ANSWER: D
+
+A03-L11-Q04-Which abbreviation helps us memorize the disciplines within each iteration of UDP?:
+A. RADIT.
+B. IECT.
+D. BRADIT.
+C. IETC.
+ANSWER: A
+
+A03-L11-Q05-We want to create a project for our client. The client, however, doesn't really know what kind of product he wants. Which methodology should we use?
+A. It' doesn't matter.
+B. Agile.
+C. Agile, but only SCRUM.
+D. UDP.
+ANSWER: B
+
+A03-L11-Q06-UDP is...:
+A. Iterative and incremental.
+B. Iterative.
+C. Incremental.
+D. None of them is correct.
+ANSWER: A
+
+A03-L11-Q07-The 4 fases of each cycle of UDP are...:
+A. Increment, Elaboration, Construction, Transition.
+B. Inception, Elaboration, Contruction, Transition.
+C. Increment, Elaboration, Colaboration, Transition.
+D. Inception, Elaboration, Colaboration, Transition.
+ANSWER: B
+
+A03-L11-Q08-What is identified in the Inception phase?:
+A. Integration and deployment.
+B. Activities and estimate the use of resources.
+C. The most critical risks.
+D. Desing the base line architecture.
+ANSWER: C
+
+A03-L11-Q09-Which activity is not involved in the trasition phase?:
+A. Integration.
+B. Deployment.
+C. Correction of defects.
+D. All are involved.
+ANSWER: D
+
+A03-L11-Q10-What is the MoSCoW classification stand for?:
+A. Must, Should, Can't, Won't.
+B. Must, Shall, Could, Won't.
+C. Must, Shall, Can't, Won't.
+D. Must, Should, Could, Won't.
+ANSWER: D
+
+A03-L11-Q11-How long should a daily meeting be according to Scrum?:
+A. Shorter than 15 minutes.
+B. Shorter than 30 minutes.
+C. Shorter than 1 hour.
+D. As long as needed.
+ANSWER: A
+
+A03-L11-Q012-Which of these roles are not present in SCRUM?:
+A. Product Owner.
+B. Development Team.
+C. Scrum Master.
+D. Scrum Manager.
+ANSWER: D
+
+A03-L11-Q13-Which is the difference between Functional Requirements and Use Cases?:
+A. The Functional Requirements and Use Cases are exactly the same.
+B. A Functional Requirement is a necesity of the clietn and an Use Case can be a combination of Functional Requirements or just one of them.
+C. The Use Cases are what we suppose the client wants.
+D. They are all false.
+ANSWER: B
+
+A03-L11-Q14-Which are the phases of UDP?: 
+A. Inception, Construction and Transition.
+B. Analisis, Desing, Development and Testing.
+C. Inception, Elaboration, Construction and Transition. 
+D. The phases that happen during the proyect are choosen by the developers. 
+ANSWER: C
+
+A03-L11-Q15-Which are the characteristics of UDP?:
+A. Its only characteristic it's that it is iterative and incremental.
+B. Architecture centric, iterative and incremental, use case driven.
+C. Architecture centric, iterative and use case driven.
+D. It only takes care about risks.
+ANSWER: B
