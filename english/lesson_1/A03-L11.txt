@@ -1,0 +1,104 @@
+A03-L11-Q01- How many productive processes an enterprise can have active?:
+A. One for each part of the selected life cycle. 
+B. As much as clients or sectors that the enterprise has for developing software. 
+C. Only one, to focus properly on the actual project. 
+D. As many as we can, so the enterprise wins more money.
+ANSWER: B.
+
+A03-L11-Q02- Which kind of life cycle should we use if we know what we have to do since the begging of the project?:
+A. Cascade life cycle.
+B. Iterative life cycle.
+C. Spiral life cycle. 
+D. None of the above.
+ANSWER: A.
+
+A03-L11-Q03- When we talk about the Model of Processes, How many standards should be used by an Enterprise?: 
+A. All processes are necessary.
+B. Only the important ones. 
+C. It is all done on the fly.
+D. There is no a concrete number, but the more they use, the more "mature" the enterprise is. 
+ANSWER: D.
+
+A03-L11-Q04- Which would be the best methodology to develop a database system?: 
+A. Conventional.
+B. Structured.
+C. Object Oriented.
+D. None of them. 
+ANSWER: B. 
+
+A03-L11-Q05- Which one of the following processes is a Production Process: 
+A. Agreement Process.
+B. Organizational Processes.
+C. Technical Processes. 
+D. Technical Gestion Processes. 
+ANSWER: C.
+
+A03-L11-Q06- Which of these things should be contractually specified for any software project sold to a customer?:
+A. The tools (such as IDEs) the project uses.
+B. Amount of workers in the company dedicated to this project.
+C. Functional Requirements of the project.
+D. If UDP is used, all UDP plans the company proposes to develop the software.
+ANSWER: C
+
+A03-L11-Q07- Which requirement can be considered a functional requirement?:
+A. Device Compatibility.
+B. Network Security.
+C. Implementation.
+D. Maintainability.
+ANSWER: C
+
+A03-L11-Q08- What's an Artifact?:
+A. Any kind of output from which the development progress can be evaluated.
+B. A UDP concept.
+C. The finished product of the development progress.
+D. A stage within the waterfall model.
+ANSWER: A
+
+A03-L11-Q09- What is NOT explained with Life Cycle Models, Process Models and Development Methodologies?:
+A. The order in which we work.
+B. What we work on.
+C. How we work on our tasks.
+D. How much time we spend on our work.
+ANSWER: D
+
+A03-L11-Q10- In which of these situations should we use the Waterfall Model to develop software?:
+A. If our company has never developed a similar product before.
+B. If our company develops a similar product all the time.
+C. If we don't want to use Project Management software.
+D. If all of out workers are very experienced.
+ANSWER: B
+
+A03-L11-Q11- What defines a life cycle model?:
+A. Which porcess are required.
+B. The order.
+C. The tools that are going to use.
+D. The product obtained.
+ANSWER: B
+
+A03-L11-Q12- Which one is not part os a development methodology?:
+A. All are part.
+B. What tools will be used.
+C. Which task should be executed in each step.
+D. What restrinctions apply.
+ANSWER: A
+
+A03-L11-Q13- Which of these is not a lyfe cycle model?:
+A. Waterfall.
+B. Incremental.
+C. All thre previous ones are lyfe Cycle models.
+D. Spiral.
+ANSWER: C
+
+A03-L11-Q14- In a waterfall lyfe cycle...:
+A. At the end of each cycle, risk are assesed.
+B. System is develop in small increments.
+C. System result of integration of several components.
+D. A stage cannot begin until the previous one is completed.
+ANSWER: D
+
+A03-L11-Q15- Which is an advantage of the waterfall model?:
+A. Software migration projects from legacy enviroments.
+B. It takes long time to finish the cycle.
+C. It requires a Project managment structure.
+D. Valuable results are obtained at the end of the project.
+ANSWER: A

@@ -1,0 +1,203 @@
+A03-L51-Q01-How can Maintenance be defined?
+A. Refers to the process of a software product being used by employees in a company after it was released.
+B. Refers to software product modifications after it was released.
+C. Refers to the process of collecting of feedback and problems of a software product after it was released.
+D. Refers to the process of collecting of feedback and problems of a software product before it is released.
+ANSWER: B
+
+A03-L51-Q02-Which of these maintenance types does a company want to avoid as much as possible?
+A. Perfective Maintenance.
+B. Corrective Maintenance.
+C. Preventive Maintenance.
+D. Adaptive Maintenance.
+ANSWER: B
+
+A03-L51-Q03-Software Development Companies need to respect the "Warranty Law". Which of these maintenance types is related to this law?
+A. None of them.
+B. Perfective Maintenance.
+C. Preventive Maintenance.
+D. Adaptive Maintenance.
+ANSWER: A
+
+A03-L51-Q04-Which maintenance type is the most expensive?
+A. Corrective Maintenance.
+B. Preventive Maintenance.
+C. Adaptive Maintenance.
+D. Perfective Maintenance.
+ANSWER: D
+
+A03-L51-Q05-Before performing maintenance tasks, a "Benefit/Cost" analysis is performed. Why?  
+A. To check, whether the customer really needs the maintenance task in question.
+B. To check, whether the net profit resulting from this task is positive.
+C. To check, whether the task should be done by workers of the company or outsourced.
+D. All of the above answers apply.
+ANSWER: D
+
+A03-L51-Q06-Which is the goal of Maintenance?
+A.- To make the client happy.
+B.- Maintenance is useful to create new systems.
+C.- To locate and remove defects that may cause failures.
+B.- None of them.
+ANSWER: C
+
+A03-L51-Q07-What is Adaptative Maintenance? 
+A.- Adapt the system to enviromental changes.
+B.- To adapt to some changes for future systems.
+C.- To add new functionalities because it is better. 
+D.- A is not true, because Adaptative Maintenance doesn't care about enviroment.
+ANSWER: A
+
+A03-L51-Q08-Which is the most used Maintenance?
+A.- Corrective.
+B.- Perfective.
+C.- Preventive. 
+D.- Perfective. 
+ANSWER: D
+
+A03-L51-Q09-It is legacy code important actually?
+A.- Maintenance is useful for these languages as many institutions still work with old code.
+B.- It is not important and can be easily removed with no repercussion. 
+C.- It is just a name for the code that is going to be realised. 
+D.- None of the avobe.
+ANSWER: A
+
+A03-L51-Q10-Is a program finished when it is launched?
+A.- Yes, because it is meant to be the final version.
+B.- Yes because all the previous process is made to avoid problems. 
+C.- No, because there are errors that could be non detected during the coding phase. Futhermore, it can also be necessary to create new functions for the program.
+D.- No, because it is important to leave work for this phase as we reduce the work load from the first stages and now all would be clear. 
+ANSWER: C
+
+A03-L04-Q11-What are the four types of maintenance?
+A. Systematic, Corrective, Preventive and Adaptive.
+B. Perfective, Performance, Preventive and Adaptive.
+C. Perfective, Corrective, Preventive and Adaptive.
+D. Perfective, Corrective, Preventive and Documentative.
+ANSWER: C
+
+A03-L04-Q12-What is the goal of adaptive maintenance? 
+A. Locate and remove defects.
+B. Improve or add functionalities.
+C. Modify for improving some properties.
+D. Adapt the systems to enviromental changes.
+ANSWER: D
+
+A03-L04-Q13-Which of these maintenance activities refers to the proposed design as well possible redesigns?
+A. Change desing.
+B. Coding and unitary testing.
+C. Change comprhension.
+D. Integration testing.
+ANSWER: A
+
+A03-L04-Q14-Which of these maintenance challenges is related to code developed some time ago?
+A. Need for continuous change.
+B. Legacy code.
+C. Increase of complexity.
+D. Maintenance management.
+ANSWER: B
+
+A03-L04-Q15-Which one is a qualit management?
+A. Standard documentation.
+B. Structured and clean code.
+C. All are correct.
+D. Quality metrics for prducts and processes.
+ANSWER: C
+
+A03-L04-Q16-What is not a type of maintenance?
+A. Corrective.
+B. Perfective
+C. Systematic.
+D. Preventive.
+ANSWER: C
+
+A03-L05-Q17-What is the main causes of defects that requiring corrective maintenance? 
+A. Data management.
+B. Standards.
+C. Software interfaces.
+D. Design/specification.
+ANSWER: D
+
+A03-L05-Q18-What is not a Maintenance Activity?
+A. Solve the problem as I wish
+B. Coding and unitary testing.
+C. Acceptance testing.
+D. Integration testing.
+ANSWER: A
+
+A03-L05-Q19-What is the legacy code?
+A. Currently, most software consists of old code.
+B. A and C are true.
+C. Code developed some time ago.
+D. Code that we have to maintain.
+ANSWER: B
+
+A03-L05-Q20- What standard Depicts Software life cycle processes?
+A. ISO 17909.
+B. ISO 18893.
+C. ISO 12207:2017.
+D. ISO 12678.
+ANSWER: C
+
+A03-L5-Q21- What could be failures due to in corrective maintenance?
+
+A. Computing
+
+B. Performance
+
+C. Coding
+
+D. All of the above
+
+ANSWER: D
+
+
+A03-L5-Q22- Which of the following is NOT a stage of reengineering?
+
+A. Reverse engineering
+
+B. Restructuring
+
+C. Adaptation
+
+D. Forward engineering
+
+ANSWER: C
+
+
+A03-L5-Q23- The acronyms F.I.R.S.T corresponds to:
+
+A. First - Independent - Repeteable - Self-Validating - Timely
+
+B. First - Independent - Responsability - Simple - Testeability
+
+C. First - Independent - Reusability - Self-Validating - Testeability
+
+D. First - Independent - Repeteable - Simple - Timely
+
+ANSWER: A.
+
+
+A03-L5-Q24- What is Don't repeat Yourself (DRY) principle?
+
+A. Avoid duplicated code.
+
+B. Avoid implementation of complicated code.
+
+C. Focus on simple things.
+
+D. No one of the options is correct.
+
+ANSWER: A. 
+
+
+A03-L5-Q25- The definition of Maintenance "It’s defined as the software product modification after it was released aimed at fixing defects, improving performance, etc" corresponds to:
+
+A. ISO 12207-2017
+
+B. ISO 14764-2006
+
+C. ISO/IEC 25000:2014
+
+D. ISO 25010:2011
+
+ANSWER: B.
