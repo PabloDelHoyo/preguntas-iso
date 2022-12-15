@@ -1,0 +1,139 @@
+A01-L31-Q01-The quality is...:
+A. a list of technical specifications that must be fulfilled.
+B. fitness for use.
+C. not really defined.
+D. None of them are correct.
+ANSWER: B
+
+A01-L31-Q02-The quality model: 
+A. Is a set of quality characteristics.
+B. Criterium to judge the quality.
+C. A and B are correct.
+D. None of them are correct.
+ANSWER: A
+
+A01-L31-Q03-The quality management cycle is composed of (in order):
+A. Do, plan, act, check.
+B. Plan, design, implement, test.
+C. Plan, do, implement, test.
+D. Plan, do, check, act.
+ANSWER: D
+
+A01-L31-Q04-The level 1 of maturity following the AENOR model:
+A. It is achieved if processes of planning and implementation of projects reached a level of capacity.
+B. Every company has a level 1 of maturity, otherwise it could not be a company.
+C. for this level of maturity you do not have to reach any level of capacity.
+D. It is achieved if processes of planning and management/evaluation reached a level of capacity.
+
+A01-L31-Q05-Which of them is a characteristic of quality?:
+A. All the answers are correct.
+B. Multidimensional.
+C. Linked to commitments.
+D. It is not absolute.
+ANSWER: A
+
+A01-L31-Q06-What is the definition of quality policy?:
+A. All the answers are wrong.
+B. Global intentions and orientation of an organization relative to the quality as expressed by the high-Management.
+C. Management system to manage and control an organization with respect to quality.
+D. Part of the Quality Management focused on the statement of the quality goals and the specification of the required operative processes for the resources to meet the quality goals
+ANSWER: B
+
+A01-L31-Q07-Take an action to fix the root causes of a non conformance or any other potentially undesirable situation is the definition of:
+A. Corrective Action.
+B. Conformance.
+C. Reparation.
+D. Preventive Action.
+ANSWER: D
+
+A01-L31-Q08-What is the continously improvement cycle in quality management?:
+A. Plan, Construction, Check.
+B. Act, Plan, Elaboration, Construction, Check.
+C. Act, Plan, Do, Check.
+D. Plan, Do, Construction, Test.
+ANSWER: C 
+
+A01-L31-Q09-What determines the quality of a product:
+A. The quality of a product is determined by the quality of the process used to develop it.
+B. The quality of a product is determined by the quality of the client that is going to use it.
+C. The quality of a product is determined just by the final result.
+D. All of them are correct. 
+ANSWER: A
+
+A01-L31-Q10-Which is not a principle for achiving the goals of Procees Improvements:
+A. Define the process.
+B. Measure the process.
+C. Delete the process.
+D. Improve the progress.
+ANSWER: C
+
+A01-L31-Q11-Which artefacts to control and manage the process do companies need?
+A. Process Reference Model, Assesment Model, Completeness Model. 
+B. Process Reference Model, Assesment Model, Plan.
+C. Process Reference Model, Assesment Model, Process Improvement Model.
+D. Process Reference Model, Acceptance Model, Process Improvement Model.
+ANSWER: C
+
+A01-L31-Q12-At level 1 in the Process Assessment ISO 33000 the process is:
+A. Incomplete: The process is not well implemented, or it fails when it is executed. .
+B. Performed: The process is implemented, and it achieves its goals. 
+C. Predictable: The process is executed under the preestablished limits.
+D. Optimizing: The process in continuously being improved to meet the more relevant goals of the business.
+ANSWER: B
+
+A01-L31-Q13-Which one of them is a definition of Quality?:
+A. Multi-Dimensional.
+B. Economic loss that a product provokes to society from the time of issue.
+C. All of them.
+D. Extent to which a set of inherent characteristics meet requirements.
+ANSWER: C 
+
+A01-L31-Q14-What is the definition of Quality Plan?:
+A. Global intentions and orientation of an organization relative to the quality as expressed by the high-Management.
+B. Part of the Quality Management focused on the statement of the quality goals and the specification of the required operative processes for the resources to meet the quality goals.
+C. Taken action to fix the root causes of a non conformance or any other potentially undesirable situation.
+D. A document that establishes the necessary steps and processes to exercise quality management.
+ANSWER: B
+
+A01-L31-Q15-Which of them is not a characteristic of Reliability?:
+A. Maturity.
+B. Functional Correctness.
+C. None of them.
+D. Recovery capacity.
+ANSWER: B
+
+A01-L3-Q16-What is the name of level 2 of Process Assessment ISO 33000?:
+A. Optimizing.
+B. Performed.
+C. Established.
+D. Managed.
+ANSWER: D
+
+A01-L31-Q17-Which one is not a characteristic of quality:
+A. It is not absolute.
+B. Multidimensional. 
+C. Linked to commitments. 
+D. Quality characteristics are independant.
+ANSWER: D
+
+A01-L31-Q18-Which ISO standard describes processes ("Do well"):
+A. ISO 15504.
+B. ISO 25010. 
+C. ISO 25040.
+D. ISO 8021Q.
+ANSWER: A
+
+A01-L31-Q19-What does "Maturity" mean:
+A. Good judge, prudence, good sense.
+B. Aptitude, talent, quality that has someone for the proper exercise of something.
+C. Oportunity, place or means to execute something.
+D. Software version formally made available to the community.
+ANSWER: A
+
+A01-L31-Q20-Correct steps in Continously improvement cycle:
+A. Create, Plan, Transform, Apply.
+B. Create, Manage, Transform, Apply.
+C. Act, Plan, Do, Check.
+D. Act, Plan, Do, Check, Apply.
+ANSWER: C
+

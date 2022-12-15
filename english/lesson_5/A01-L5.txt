@@ -1,0 +1,175 @@
+A01-L51-Q01-Which are the maintenance types?:
+A. Corrective, preventive, perfective and adaptive.
+B. Correlative, preventive, perfective and fixed.
+C. Corrective, preventive, regulative and fixed.
+D. None of them are correct.
+ANSWER: A
+
+A01-L51-Q02-Which of these is a maintenance challenge:
+A. Increase of correction.
+B. It is carried out systematically.
+C. Need for continuous change.
+D. None of them are correct.
+ANSWER: C
+
+A01-L51-Q03-Which of these is a maintenance manage solution:
+A. Carrying it out not systematically.
+B. Use of standards.
+C. Use of documentation.
+D. B and C are correct.
+ANSWER: D
+
+A01-L51-Q04-Which of these is a factor that affects maintenance:
+A. Processes and human resources.
+B. Correction.
+C. Prevention.
+D. Regulation.
+ANSWER: A
+
+A01-L51-Q05-Which of these are some of maintainability subcharacteristics:
+A. Modularity and analyzability.
+B. Reusability and perfection.
+C. Testability and integrity.
+D. None of them are correct.
+ANSWER: A
+
+A01-L51-Q06-Which one is NOT a type of maintanance:
+A. Preventive.
+B. Adaptive. 
+C. Active. 
+D. Corrective.
+ANSWER: C
+
+A01-L51-Q07-What is a goal of the Corrective Maintenance:
+A. To locate and remove defects that potentially may cause failures.
+B. Adapt the systems to environmental changes. 
+C. To improve or add new functionality because of changes in the requirements of a software system.
+D. Goal: to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+ANSWER: A
+
+A01-L51-Q08-What is a goal of the Adaptive Maintenance:
+A. To locate and remove defects that potentially may cause failures.
+B. Adapt the systems to environmental changes. 
+C. To improve or add new functionality because of changes in the requirements of a software system.
+D. Goal: to modify software for improving some properties (e.g., quality, maintainability) without affecting original specification.
+ANSWER: B
+
+A01-L51-Q09-What is the content of "Least Surprise principle":
+A. A class should have only one reason to change.
+B. Avoid duplicated code.
+C. A function must do what its name clearly guesses.
+D. Focus on simple things that make software works.
+ANSWER: C
+
+
+A01-L51-Q10-Which part of project causes the biggest cost:
+A. Designing.
+B. Implementation.
+C. Testing.
+D. Maintenance.
+ANSWER: D
+
+A01-L51-Q11-What are the types of maintenance? 
+A. Perfective, Adaptive, Corrective, Preventive.
+B. Perfective, Adaptive, Corrective, Performance.
+C. Perfective, Corrective, Performance, Extension.
+D. All of them are wrong.
+ANSWER: A
+
+A01-L51-Q12-What are the subtypes of evolutive maintenance?
+A. Adaptive and Corrective.
+B. Extension and Performance
+C. Perfective and Preventive.
+D. All of them are wrong.
+ANSWER: B
+
+A01-L51-Q13-Adding code to validate input data is a maintenance example of?
+A. Adaptive.
+B. Corrective.
+C. Preventive.
+D. Perfective.
+ANSWER: C 
+
+A01-L51-Q14-What is the goal of a claim manager in maintenance organization?
+A. The person who is responsible of the maintenance.
+B. The person that implements change requests.
+C. The person who defines the planning for attending claims.
+D. The person who accepts or rejects change requests and makes decision about which type of maintenance should be made. 
+ANSWER: D 
+
+A01-L51-Q15-Which are the stages of reengineering?
+A. Reverse engineering, Restructuring, Forward engineering.
+B. Reverse engineering, Restructuring.
+C. Restructuring, Forward engineering.
+D. Reverse engineering, Forward engineering.
+ANSWER: A
+
+A01-L51-Q16-Which of them is a Maintenance Activity ?:
+A. Integration testing.
+B. System documentation.
+C. All of them are correct.
+D. Change design.
+ANSWER: C
+
+A01-L51-Q17-Why is maintenance considered as a mediocre activity?:
+A. Developing a new software is much better.
+B. Because there is a lot of documentation.
+C. Because it just fix defects and there is no defect generated.
+D. Systematic strategy.
+ANSWER: A
+
+A01-L51-Q18-What is the function of  software reengineering:
+A. No definition describes the function of software reengineering.
+B. Accepts or rejects change requests and makes decision about which type of maintenance should be made.
+C. The same as reverse engineering.
+D. Makes it possible to carry out the evolutionary maintenance of legacy information systems by assuming risks and save costs.
+ANSWER: D
+
+A01-L51-Q19-Which of these definitions belongs to Reusability:
+A.Degree to which an asset can be used in more than one system, or in building other assets.
+B.Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
+C.Degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components.
+D.Degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts, or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified. 
+ANSWER: A
+
+A01-L51-Q20-Which one of them correspond to the S  F.I.R.S.T :
+A.Static.
+B.Secure.
+C.Self-Validating.
+D.None of them is valid.
+ANSWER: C
+
+A01-L51-Q21-What does the Single Responsibility principle says?:
+A. Focus on simple things that make software works.
+B. Keep as simple as possible instead of implementing artificially complex.
+C. A class should have only one reason to change.
+D. Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+ANSWER: C
+
+A01-L51-Q22-The YAGNI principle says:
+A. Focus on simple things that make software works.
+B. A function must do what its name clearly guesses.
+C. A class should have only one reason to change.
+D. All of them are false.
+ANSWER: A
+
+A01-L51-Q23-Which principle of Clean Code says that we have to avoid duplicated code:
+A. KISS.
+B. YAGNI.
+C. Boy Scout.
+D. DRY.
+ANSWER: D
+
+A01-L51-Q24-Which are the maintenance activities?:
+A. Integration, acceptance and regression testing.
+B. Integration and regression testing.
+C. Intense, acceptance and regression testing.
+D. Integration, availability and regression testing..
+ANSWER: A
+
+A01-L51-Q25-Which is not a member of the maintenance organization?:
+A. Planner.
+B. Scrum manager.
+C. Claim manager.
+D. Maintenance accountable.
+ANSWER: B
