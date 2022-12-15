@@ -1,0 +1,168 @@
+A01-L11-Q01-What is an activity regarding life cycle?:
+A. Set of cohesive tasks of a process.
+B. Set of interrelated processes which transforms inputs into outputs.
+C. Product used as input or generated as output.
+D. Stated way in which activities must be followed.
+ANSWER: A
+
+A01-L11-Q02-What is one of the main problems of the "Waterfall model"?:
+A. It does not exist any Waterfall model.
+B. It is really slow if everything is understood from the beggining.
+C. It is very bad to enable communication between development and final user.
+D. The Waterfall model does not have any considerable problem.
+ANSWER: C
+
+A01-L11-Q03-Standarization is agreed by a project team in...:
+A. We don't really need standarization.
+B. Development methodologies stage.
+C. Life cycle planning stage.
+D. Process models stage.
+ANSWER: B
+
+A01-L11-Q04-What life cycle model would you choose if your clients seems not to be clear about what they want?:
+A. Waterfall model.
+B. Spiral model.
+C. Incremental model.
+D. If they are not really clear we abort the project.
+ANSWER: C
+
+A01-L11-Q05-Which of these is a structured methodology:
+A. Process Oriented.
+B. Hierachical data oriented.
+C. No hierachical data oriented.
+D. All the answers are true.
+ANSWER: D
+
+A01-L11-Q06-Which of the following life cycles takes into account risk management and quality requirements:
+A. Spiral.
+B. Waterfall.
+C. None.
+D. Incremental.
+ANSWER: A
+
+A01-L11-Q07-Which of these life cycles models is more indicated for development team which are not very qualified:
+A. Incremental.
+B. All of them are equally indicated.
+C. Waterfall.
+D. Spiral.
+ANSWER: C
+
+A01-L11-Q08-Which of them is not a difference between Spiral model and other life cycles models:
+A. Explicit recognition of the alternative diferrences to achieve the objectives of a project.
+B. Can be adapted to any type of activity.
+C. Splitting the projectst in cycles, having an agreement in all of them.
+D. It does not require any type of planification.
+ANSWER: D
+
+A01-L11-Q09-Which is the best life cycle model if the client knows exactly the final result:
+A. Incremental.
+B. Object oriented.
+C. Waterfall.
+D. Espiral.
+ANSWER: C
+
+A01-L11-Q10-What determine the order of the stages while developing software:
+A. Life cycle.
+B. Methodology.
+C. Process model.
+D. Hardware.
+ANSWER: A
+
+A01-L11-Q11-What does the process model determine:
+A. The order of the stages. 
+B. The processes than can be carried out to develop software.
+C. How do we have to develop software.
+D. None of the other answers are correct.
+ANSWER: B
+
+A01-L11-Q12-In which case is used the structured methodology:
+A. Playing videogames.
+B. Applications that allow us to make videocalls. 
+C. Monitoring sensor to detect cars speed.
+D. Hardware maintenance and management.
+ANSWER: D
+
+A01-L11-Q13-In which step of the Software Life Cycle the Requirements Analysis is made:
+A. Definition.
+B. Development. 
+C. Deployment.
+D. Maintenance.
+ANSWER: A
+
+A01-L11-Q14-Unified Development Process (UDP) is:
+A. Process Oriented.
+B. Object Oriented. 
+C. Data Oriented.
+D. Mixed.
+ANSWER: B
+
+A01-L11-Q15-Which is NOT one of Development Methodologies:
+A. Agile Methodologies.
+B. Unified Development Model (UPD). 
+C. IEEE.
+D. Métrica v3.
+ANSWER: C
+
+A01-L11-Q16-Which ISO standard describes Process for Software Life Cycle:
+A. ISO 15118.
+B. ISO 27001. 
+C. ISO 1207.
+D. ISO 12207.
+ANSWER: D
+
+A01-L11-Q17-Which is not a part of productive process characteristics of product development:
+A. Highest level of quality.
+B. Being under budget.
+C. Getting results as soon as possible.
+D. Using the resources in the most optimum way.
+ANSWER: C
+
+A01-L11-Q18-Which of the following life cycle concept describes “set of cohesive tasks of a process”:
+A. Process.
+B. Activity.
+C. Task.
+D. Artefact.
+ANSWER: B
+
+A01-L11-Q19-Which one is NOT a process model:
+A. IEEE 1074.
+B. ISO 12207.
+C. Métrica v3.
+D. CMMI.
+ANSWER: C
+
+A01-L11-Q20-In which development model the system is the result of the integration of several components:
+A. Incremental Model.
+B. Waterfall Model.
+C. Spiral Model.
+D. Agile Model.
+ANSWER: A
+
+A01-L11-Q21-What is a stakeholder?:
+A. Product used as input or generated as an output.
+B. Set of cohesive tasks of a process.
+C. Stated way in which activities must be followed
+D. Individual or organization having interest in a system or in its possesion of characteristics that meet their expectations.
+ANSWER: D
+
+A01-L11-Q22-Which are the generic steps in the Software Life Cycle?:
+A. Life Cycle models.
+B. Development Methodologies.
+C. All of them.
+D. Process Models.
+ANSWER: C
+
+A01-L11-Q23-Which of them is an advantage in the Waterfall Model?:
+A. None of the other answers are correct. 
+B. Useful for complex projects that are very well understood from the beggining.
+C. It is not very flexible
+D. Takes a long time in finishing all of the cycle.
+ANSWER: B
+
+A01-L11-Q24-What is the process model useful for?:
+A. All of them.
+B. Define the priorities and objectives of improvement.
+C. As a guide to the improvement.
+D. Define a common language.
+ANSWER: A
+

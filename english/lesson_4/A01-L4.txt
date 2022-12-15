@@ -1,0 +1,174 @@
+A01-L41-Q01-What is a failure?:
+A. Deviation regarding the expected, required behaviour of the system detected by users.
+B. Deviation regarding the expected, required behaviour of the system detected by the testers.
+C. None of them are correct.
+D. Error doing any activity concerning software.
+ANSWER: A
+
+A01-L41-Q02-Regarding testing coverage...:
+A. It does not imply necessarily that a covered part is free of errors.
+B. The goal is to add new test cases concerning unexplored pieces over the already tested system.
+C. Degree in which certain parts of the system have been subject under test.
+D. All answers are correct.
+ANSWER: D
+
+A01-L41-Q03-Regarding equivalence classes:
+A. Inputs domain of every parameter is divided into disjoint sets.
+B. You have to input all the parameters you can imagin.
+C. Normally, you will have more than 5 equivalence classes per parameter.
+D. None of them are correct.
+ANSWER: A
+
+A01-L41-Q04-Lightweight boundary values...:
+A. It takes boundary values of the current equivalence class as well as boundary values of the adjacent class.
+B. In addition to values taken by previous variant, it takes next and previous values to the boundary ones of the current equivalence class.
+C. Should be the same for all variables.
+D. A and C are correct.
+ANSWER: A
+
+A01-L41-Q05-PICT is a...:
+A. Maintenance tool.
+B. Quality paradigm.
+C. Standarization organisation.
+D. Testing tool.
+ANSWER: D
+
+A01-L41-Q06-Which can be a concrete goal or test condition of a Test Case?:
+A. Check the execution path of a certain program.
+B. Verify whether a requirement has been met.
+C. A and B are correct.
+D. None of them are correct.
+ANSWER: C
+
+A01-L41-Q07-Which of them is not a property of an acceptance test?:
+A. They are done by the client.
+B. They are done by the developers.
+C. A black box test is done.
+D. It is done manually.
+ANSWER: B
+
+A01-L41-Q08-In order to test our software,if we choose few values, which is a property a value must reach:
+A. Detect highest number of errors.
+B. If not detected error,further defects won´t appear using other values.
+C. All of them.
+D. Maximize coverage.
+ANSWER: C
+
+A01-L41-Q09-Which is not a testcase strategy:
+A. Each use.
+B. Pairwise.  
+C. N-Wise.  
+D. Prunned-Wise. 
+ANSWER: D
+
+A01-L41-Q10-Which of them does not belong to the Statement level in a Mutant generation:
+A. Change arithmetic operators.
+B. Removing statements
+C. Change conditions.
+D. Adding statements from different place (Copy-Paste).
+ANSWER: D
+
+A01-L41-Q11-"Degree in which certain parts of the system have been subject under test" is a deffinition of:
+A. Black box.
+B. White box. 
+C. Coverage. 
+D. V-Model.
+ANSWER: C
+
+A01-L41-Q12-Which is the best description of Pairwise coverage criteria:
+A. Test cases must ‘visit’, at least once, every pair of values of two any parameter.
+B. Every interesting value must be used at least in one test case. 
+C. Test cases must ‘visit’ all tuples of n elements of any n parameters.
+D. Generates, in polynomial time, a set of test cases of acceptable size that get pairwise coverage.
+ANSWER: A
+
+A01-L41-Q13-Which one is a Test-based methodology:
+A. GPU.
+B. PPT.
+C. UDP.
+D. TDD.
+ANSWER: D
+
+A01-L41-Q14-Which type of testing is done over Requirements Anylisys:
+A. System Testing.
+B. Acceptance Testing.
+C. Unit Testing.
+D. Analysis Testing.
+ANSWER: B
+
+A01-L41-Q15-What is require to check In-Depth Tests?:
+A. All valid and invalid combinations.
+B. Every possible state of the program.
+C. All starting, running points for the program.
+D. All of them are correct.
+ANSWER: D
+
+A01-L41-Q16-What is a defect or bug?:
+A. Mistake made by a person (in this context, a software engineer).
+B. Error doing any activity concerning software (perceived by testers).
+C. Deviation regarding the expected, required behaviour of the system (detected by users).
+D. All of them are wrong. 
+ANSWER: B
+
+A01-L41-Q17-Testing is used to verify...:
+A. A program does what it is supposed to do.
+B. A program does nothing what is not supposed to do.
+C. A and B are correct.
+D. A program does not what it is supposed to do.
+ANSWER: C
+
+A01-L41-Q18-Which of them is related to integration tests?:
+A. Check that test units (once passed sucessfully unit tests) works well after integrating the tested classes along with some other classes.
+B. They are focused on software architecture.
+C. Usually, “black box” tests.
+D. All of them are related to integration tests.
+ANSWER: D
+
+A01-L41-Q19-What is a heavy variant boundary value?:
+A. In addition to values taken by previous variant, it takes next and previous values to the boundary ones of the current equivalence class.
+B. It takes boundary values of the current equivalence class as well as boundary values of the adjacent class.
+C. Test cases must ‘visit’, at least once, every pair of values of two any parameter
+D. Every interesting value must be used at least in one test case.
+ANSWER: A  
+
+A01-L41-Q20-The testing management goal is:
+A. Demonstrate a programs works well.
+B. Find failures before releasing to production.
+C. Reducing the degree of coverage.
+D. Maximize time invested in testing.
+ANSWER: B 
+
+A01-L41-Q21-The MINIMAX function tries to:
+A. Maximize test effectiveness and maximize time invested in testing.
+B. Minimize test effectiveness and maximize time invested in testing.
+C. Maximize test effectiveness and minimize time invested in testing.
+D. Minimize test effectiveness and minimize time invested in testing.
+ANSWER: C
+
+A01-L41-Q22-How do we call an error doing any activity concerning software:
+A. Error.
+B. Segmentation fault.
+C. Failure.
+D. Defect or bug.
+ANSWER: D
+
+A01-L41-Q23-If we prepare hot chocolate with "churros" in summer, which test it will not pass?:
+A. Unit testing.
+B. Acceptance testing.
+C. System testing.
+D. Integration testing.
+ANSWER: B
+
+A01-L41-Q24-What is a test unit in object oriented programming?:
+A. A class.
+B. A object.
+C. A setter.
+D. An interface.
+ANSWER: A
+
+A01-L41-Q25-When is the testing done?:
+A. After coding.
+B. Before coding.
+C. while coding.
+D. After the desing.
+ANSWER: A

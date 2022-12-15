@@ -1,0 +1,203 @@
+A01-L21-Q01-The release  management consists on...:
+A. Prepare te software for external delivery and track versions of the delivered system.
+B. Track requests for changes to the software by customers and developers.
+C. Track the different versions of the system components and ensure changes do not interfere.
+D. Process of assembling program components and then compiling and linking into a executable.
+ANSWER: A
+
+A01-L21-Q02-The release alpha...:
+A. describes what portions of the system's functionality in each release.
+B. is a secondary phase to begin software testing after all code features are complete.
+C. is the first phase to begin software testing and they are usually not available to customers.
+D. A and C are correct.
+ANSWER: C
+
+A01-L21-Q03-A version is:
+A. The assignment of a unique tag identifier to specific states of the software items.
+B. A publication of a software configuration item associated with a compilation of that item.
+C. Explicit identifier of a software inserted into each configuration item.
+D. None of them are correct.
+ANSWER: B
+
+A01-L21-Q04-A basic branching process should have:
+A. Development, feature, release, master branches.
+B. Development, version, master, testing, fixing branches.
+C. Release, version, master, alpha, beta branches.
+D. None of them are correct.
+ANSWER: A
+
+A01-L21-Q05-The set of rules for versioning are:
+A. Major, minor, version.
+B. It does not exist any specific criteria.
+C. Major, minor, patch.
+D. None of the answers are correct.
+ANSWER: C
+
+A01-L21-Q06-Who said "Everything flows, nothing remains":
+A. Heraclitus from Ephesus.
+B. Hercules from Ephesus. 
+C. Hercules Poirot. 
+D. Zeus from Ephesus.
+ANSWER: A
+
+A01-L21-Q07-What are basic activities of configuration Management:
+A. Chain Management, Problem Management, Program Construction, Release Management.
+B. Change Management, Version Management, Software System Construction, Release Management. 
+C. Plan Management, Search Management, Construction of Increments, Value Management.
+D. Tools Management, Patch Management, Glossry  Construction, Release Management.
+ANSWER: B
+
+A01-L21-Q08-In M-m-p for each letter stands for:
+A. M is mangement, m is money, p is place.
+B. M is mangement, m is major, p is place.
+C. M is money, m is mangement, p is patch.
+D. M is major, m is minor, p is patch.
+ANSWER: D
+
+A01-L21-Q09-What is branching:
+A. Software version formally made available to the community.
+B. Aggregation of work products that are designed to be integrated into the configuration control and are treated as simple entities in the associated processes.
+C. The creation of a new baseline from an existing version, the new baseline and the existing one can be developed independently.
+D. It is a set of versions of a software component and other configuration elements on which that component depends.
+ANSWER: C
+
+A01-L21-Q10-Which of rules for versioning is FALSE:
+A. Version 1-0-0 defines the public API.
+B. Version greater than 0 (0-Y-Z) is for initial development.
+C. After a release, the numbers are changed, and the next version should be 1-0-0 + Y.
+D. Precedence should be calculated by separating the major minor patch and pre-release identifiers in that order. 
+ANSWER: C
+
+A01-L21-Q11: The purpose of Configuration Management is:
+A. To manage and control the team groups during the life cycle.
+B. To manage and control th esystem elements and configurations after the life cycle.
+C. To manage and control the team groups after the life cycle.
+D. To manage and control th esystem elements and configurations during the life cycle. 
+ANSWER: D
+
+A01-L21-Q12: What feature of the product does the Configuration Management establish:
+A. The integrity
+B. The optimization.
+C. The completeness.
+D. The progress.
+ANSWER: A
+
+A01-L21-Q13: What is a tag?
+A. A tool used to track change proposals. 
+B. A plan that describes what portions of a system's functionality will be implemented in each release.
+C. Explicit and immutable identifier of a software version.
+D. None of the other answers is correct.
+ANSWER: C
+
+A01-L21-Q14: The Change Management gives priority to:
+A. The fastest changest.
+B. The most urgent and profitable changes. 
+C. The easiest changes.
+D. The more recent changes.
+ANSWER: B
+
+A01-L21-Q15: Which is the aim of branching? 
+A. The allow programmers to work faster by their own.
+B. The not merge the lines of code. 
+C. To prevent the work of several programmers from conflicting due to collisions.
+D. It does not allow programmers to work on their own line of work.
+ANSWER: C
+
+A01-L21-Q16-Which one of them is a basic activity of configuration management?:
+A. Release Management.
+B. Change Management.
+C. All of them.
+D. Software system construction.
+ANSWER: C 
+
+A01-L21-Q17-What is a Configuration Management Plan?:
+A. A document that establishes the necessary elements to exercise configuration management.
+B. It is a set of versions of a software component and other configuration elements on which that component depends.
+C. Aggregation of work products that are designed to be integrated into the configuration control and are treated as simple entities in the associated processes.
+D. A document that establishes the necessary steps and processes to exercise configuration management.
+ANSWER: A
+
+A01-L21-Q18-When should we increase our patch version?:
+A. Changes not compatible with the previous version are introduced to the Public API.
+B. When we introduce only changes compatible with the previous version are introduced.
+C. None of them.
+D. A new functionality compatible with the previous version is introduced.
+ANSWER: B
+
+A01-L21-Q19-What can be included in a release?:
+A. All of them.
+B. System executable code.
+C. Data files, such as error message files, required for system operation.
+D. Electronic and written documentation describing the system.
+ANSWER: A
+
+A01-L21-Q20-What is a Delta?:
+A. It is a set of versions of a software component and other configuration elements on which that component depends.
+B. Collection of configuration items that have been added or changed and that have been tested and introduced into the development environment.
+C. It is a version of a product with the minimum but sufficient characteristics that allows to determine if the most important customer requirements are satisfied. They also serve to obtain feedback from customers.
+D. Any increase generated after an iteration of the development It can be a module, a class, a document... or in general any configuration element in the configuration management database.
+ANSWER: D
+
+A01-L21-Q21-Which of them is a basic activity of configuration management?:
+A. All the answers are correct.
+B. Change management.
+C. Version management.
+D. Release management.
+ANSWER: A
+
+A01-L21-Q22-Which is the aim of configuration management basic activity Software System Construction?:
+A. All the answers are wrong.
+B. Process of assembling program components, data and libraries and then compiling and linking them to create an executable system.
+C. Track the different versions of the system components and sure changes do not interefere with each other.
+D. Prepare the software for external delivery.
+ANSWER: B
+
+A01-L21-Q23-What is branching?:
+A. Group of people responsible for evaluating and accepting or rejecting proposed changes to configuration.
+items and ensuring implementation of the proposed changes.
+B. A baseline is a collection of component versions that build a system.
+C. To carry out the necessary steps to produce an instance of a product.
+D. The creation of a new baseline from an existing version. The new baseline and the existing one can be developed independently.
+ANSWER: D
+
+A01-L21-Q24-What semantic would you use to introduce a new patch with format (M.m.p)?:
+A. Increasing the first parameter because is a major improve.
+B. Increasing second parameter because is a minor improve.
+C. Increasing the third parameter because is a bug fix and the interface does not change.
+D. We do not have to change anything because the changes in a patch are not important.
+ANSWER: C
+
+A01-L21-Q25-In which activity of configuration management software gets prepared for external delivery?:
+A. Software System Construction.
+B. Change management.
+C. Version management.
+D. Release management.
+ANSWER: D
+
+A01-L21-Q26-Which of them is NOT a basic activity of configuration management?:
+A. Advising the client.
+B. Change management.
+C. Version management.
+D. Release management.
+ANSWER: A
+
+A01-L21-Q27-Which of these is the document that establishes the necessary elements to exercise configuration management?:
+A. Configuration Management Plan.
+B. Configuration Control Board.
+C. Codeline.
+D. Configuration Management Database.
+ANSWER: A
+
+A01-L21-Q28-What do the Version Management tools provide?:
+A. Version identification and release.
+B. Storage Management.
+C. All of them.
+D. Change history log.
+ANSWER: C
+
+A01-L21-Q29-What is the set of versions of a software component and other configuration elements on which that component depends, called?:
+A. Codeline.
+B. Storage Management.
+C. Configuration Control Board.
+D. History log.
+ANSWER: A

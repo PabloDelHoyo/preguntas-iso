@@ -1,0 +1,183 @@
+A01-L12-Q01-SCRUM is a...:
+A. Software creation methodology.
+B. Generic project management methodology.
+C. Traditional methodology.
+D. B and C are correct.
+ANSWER: B
+
+A01-L12-Q02-Traditional methodologies are...:
+A. Adaptative.
+B. Adaptative and predictable.
+C. Predictable.
+D. None of them are correct.
+ANSWER: C
+
+A01-L12-Q03-Agile methodologies are...:
+A. Adaptative.
+B. Adaptative and predictable.
+C. Predictable.
+D. None of them are correct.
+ANSWER: A
+
+A01-L12-Q04-In the Agile manifiesto...:
+A. Individuals and interactions over processes and tools.
+B. Contract negotiation over customer collaboration.
+C. Comprehensive documentation and working software.
+D. Following a plan over responding to change.
+ANSWER: A
+
+A01-L12-Q05-Which is one is an advantage of a controlled iterative process?:
+A. Risk impact on project is reduced to one increment.
+B. Reduces the risk of not bringing the product to market.
+C. All of them.
+D. Allows for better collection and fixation of user requirements.
+Answer: C 
+
+A01-L12-Q06-Which is the milestone of inception?:
+A. Life cycle goals.
+B. Initial Working Capability.
+C. Product Delivery.
+D. System Architecture Baseline.
+Answer: A
+
+A01-L12-Q07-Which is not a misinterpretation of the Agile manifesto?:
+A. No documentation is needed.
+B. Plan is also needed.
+C. Customer must do all the job and is the head of the job.
+D. No justification is needed to change the methodology.
+Answer: B
+
+A01-L12-Q08-Which are the questions that must be resolved when planning a proyect?:
+A. How long will the project last, when will the project be finished and how much will the project cost.
+B. How long will the project last, when will the project be finished and how are we going to divide to do it.
+C. How long will the project last, how much will the project cost and how are we going to divide it.
+D. How much will the project cost, when will the project be finished and how are we going to divide to do it.
+Answer: A
+
+A01-L12-Q09-Which is not a role in Scrum?:
+A. Scrum Master.
+B. Product owner.
+C. Scrum Manager.
+D. The development team.
+ANSWER: C
+
+A01-L12-Q10-Which is the objetive of the deployment discipline?:
+A. The commercialize versionis packaged, distributed and installed.
+B. Domain themodel for which the basics of the application domain are displayed.
+C. Itis produced an Analysis and a Design Model.
+D. TheWorking is checked by analyzing several aspects: objects as units, integration,....
+ANSWER: A
+
+A01-L12-Q11-What does Scrum taks about:
+A. Project management. 
+B. Software development.
+C. Use cases.
+D. None of the other answers are correct.
+ANSWER: A
+
+A01-L12-Q12-Which are the parts of a User story?:
+A. Description, conversation and analisys.
+B. Description, coclusion and agreement. 
+C. Developing, conclusion and analisys.
+D. Description, conversation and agreement.
+ANSWER: D
+
+A01-L12-Q13-Which of them is a UDP characteristic?:
+A. All of them.
+B. Iterative and incremental.
+C. Use case driven.
+D. Architecture Centric.
+ANSWER: A
+
+A01-L12-Q14-Tell me the phases of UDP?:
+A. All wrong.
+B. Inception, Elaboration, Construction and Transition.
+C. Elaboration, Design, Analysis and Test.
+D. Analysis, Design, Implementation, Test.
+ANSWER: B
+
+A01-L12-Q15-In which phase you can fix defects?:
+A. Inception.
+B. Construction.
+C. Elaboration.
+D. Transition.
+ANSWER: D
+
+A01-L12-Q16-What is a product backlog?:
+A. A generic project management methodology.
+B. Operational prototype.
+C. List of user stories.
+D. All wrong.
+ANSWER: C
+
+A01-L12-Q17-In Scrum methodology, what are the four product backlog qualities:
+A. Adequate level of detail, Estimated, Emergent, Prioritized. 
+B. Adequate level of detail, Estimated, Flexible, Prioritized. 
+C. Rigid, Changing, Descriptioned, Supervised. 
+D. Prioritized, Stable, Descriptioned, Unsupervised.
+ANSWER: A
+
+A01-L12-Q18-What is a milestone of Elaboration phase:
+A. System Architecture Baseline.
+B. Initial Working Capability. 
+C. Business Analysis and Design.
+D. Code and Test Model.
+ANSWER: A
+
+A01-L12-Q19-Which one is not an Agile methodology:
+A. Crystal Clear.
+B. Kanban.
+C. Scrum.
+D. Kompot.
+ANSWER: D
+
+A01-L12-Q20-What is a correct order of phases of a cycle:
+A. Construction, Elaboration, Inception, Transition.
+B. Inception, Transition, Construction, Elaboration.
+C. Inception, Elaboration, Construction, Transition.
+D. Elaboration, Construction, Transition, Inception.
+ANSWER: C
+
+A01-L12-Q21-Which is NOT one of main UDP characteristics:
+A. Architecture Centric.
+B. Iterative and Incremental.
+C. Total absence of documentation.
+D. Use Case Driven.
+ANSWER: C
+
+A01-L12-22-Which one is NOT on of the  misinterpretations of agile project:
+A. Absence of planning.
+B. Customer is the head of the project.
+C. Absence of documentation.
+D. Each iteration has a operational prototype.
+ANSWER: D
+
+A01-L12-23-Which is NOT a agile methodology:
+A. Agile unifed process.
+B. Essential unified process.
+C. Extreme programming.
+D. ScrumMaster.
+ANSWER: D
+
+A01-L12-24-Which is NOT a product backlog quality:
+A. Emergent.
+B. Prioritized.
+C. Planless.
+D. Adaquet level of detail.
+ANSWER: C
+
+A01-L12-25-Which is NOT a UDP characteristics:
+A. Architecture centric.
+B. Iterative and Incremental.
+C. Use Case Driven.
+D. Absensce of planning.
+ANSWER: D
+
+A01-L12-26-Which one is NOT a cycle phase:
+A. Inception.
+B. Elaboration.
+C. Construction.
+D. Planning.
+ANSWER: D
+
+
