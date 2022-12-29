@@ -1,0 +1,197 @@
+ENRIQUE
+
+B05-L03-Q01- ¿Qué impacto tiene el aumento de calidad en un proyector respecto al coste de éste?
+A. Aumentará por incremntarse el tiempo de desarrollo y añadirse requisitos
+B. Depende, no es algo predecible ni seguro 
+C. Disminuirá debido a que ahorraras arreglos de fallos y pérdidas de clientes
+D. Se mantendrá estable siempre
+ANSWER: B
+
+B05-L03-Q01- Seleccione la opción correcta sobre la calidad:
+A. Un software puede considerarse de calidad si destaca en una dimensión concreta como la velocidad.
+B. Puede valorarse en función de opiniones.
+C. Un producto podrá alcanzar un umbral máximo en un criterio de calidad sin afectar a sus medidas en los demás.
+D. Está sujeta a restricciones.
+ANSWER: D
+
+B05-L03-Q01- ¿Qué fase del ciclo continuo de mejora de la calidad de un software es el encargado de su creación?
+A. Act
+B. Do
+C. Check
+D. Plan
+ANSWER: B
+
+B05-L03-Q01- ¿Cuál de las siguientes no queda comprendida en el ámbito del criterio de calidad de seguridad?
+A. Integridad
+B. Responsabilidad
+C. Autenticidad
+D. Capacidad de recuperación 
+ANSWER: D
+
+
+YOLANDA
+
+B05-L03-Q01- Pregunta:¿Qué es la acción preventiva? 
+A. Acción tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
+B. Cumplimiento de un requisito.
+C. Acción tomada para eliminar la causa de una no conformidad detectada u otra situación indeseable.
+D. Intenciones globales y orientación de una organización relativas a la calidad tal como se expresan formalmente por la alta dirección..
+ANSWER: A
+
+B05-L03-Q02- Pregunta: Según los 6 niveles (0-5) en el modelo de evaluación para determinar el grado de madurez de una empresa,¿cuál es el primero que se certifica?.
+A. Nivel 1.
+B. Nivel 0.
+C. Nivel 3.
+D. Nivel 2.
+ANSWER: D
+
+B05-L03-Q03- Pregunta:¿Qué es el modelo de evaluación?
+A. Permiten juzgar y decidir sobre la capacidad de los procesos y la madurez de las organizaciones que están sujetas a análisis.
+B. Establecen un camino a seguir describiendo las características de los buenos procesos en diferentes aspectos organizacionales..
+C. Establecen mecanismos para hacer que los procesos sean mejores.
+D. Conjunto de buenas prácticas.
+ANSWER: A
+
+B05-L03-Q04- Pregunta:¿Qué marco genérico permite a una organización comprender el estado de sus propios procesos y determinar la idoneidad de sus procesos?
+A. ISO 27001.
+B. ISO 9001.
+C. ISO 33000.
+D. ISO 41000. 
+ANSWER: C
+
+
+LAURA
+B05-L03-Q01- Pregunta:¿Cual de las siguientes fases no forma parte de la evalucación de calidad.
+A. Especificar evaluación
+B. Llevar a cabo la evaluación
+C. Detallar los fallos
+D. Finalizar la evaluación
+ANSWER: C.
+
+
+B05-L03-Q03- Pregunta:¿Cuales son las caracteristicas de la portabilidad?
+A. Adaptabilidad, capacidad para ser instalado y capacidad para ser reemplazado.
+B. Adaptabilidad, reusabilidad y capacidad para ser reemplazado.
+C. Adaptabilidad, reusabilidad y Comportamiento temporal.
+D. Adaptabilidad, Comportamiento temporal y capacidad para ser instalado.
+ANSWER: A.
+
+
+B05-L03-Q03- Pregunta:¿En que consiste la mejora de calidad?
+A. Es la parte de la gestión de la calidad orientada al cumplimiento de los requisitos de la calidad.
+B. Es la parte de la gestión de la calidad orientada a proporcionar confianza en que se cumpliran los requisitos de calidad.
+C. Criterio para juzgar la calidad.
+D. Acción tomada para eliminar una no conformidad detectada.
+ANSWER: B.
+
+
+B05-L03-Q04- Pregunta:¿Cual de los siguientes no forma parte del modelo de calidad del producto software?.
+A. Mantenibilidad.
+B. Fiabilidad.
+C. Portabilidad.
+D. Ninguna de las anteriores.
+ANSWER: D.
+
+
+RAÚL
+B05-L03-Q01- Pregunta:¿Qué es lo más importante en un proyecto software? 
+A. Que funcione.
+B. El coste.
+C. La calidad del producto .
+D. Un producto con un equilibrio en calidad/coste.
+ANSWER: D
+
+B05-L03-Q02- Pregunta:¿Cuántas priciaples divisiones tiene el ISO 25000?.
+A. 4
+B. 5
+C. 1 
+D. No tiene divisiones
+ANSWER: A
+
+B05-L03-Q03- Pregunta:Cuál de las siguientes es una caracterítica de mantenibilidad? 
+A. Capacidad para ser instalado.
+B. Capacidad para ser modificado.
+C. Protección contra errores de usuario.
+D. Utilización de los recursos.
+ANSWER: B
+
+B05-L03-Q04- Pregunta:La calidad de un producto (software) depende del... 
+A. Proceso de produccion. 
+B. Proceso de testing. 
+C. Coste del proyecto. 
+D. Ninguna de las anteriores. 
+ANSWER: A
+
+
+ÁLVARO
+
+B05-L03-Q01- Pregunta:¿Cuál no es una característica de la Calidad?
+A. Unidimensional
+B. No Absoluto
+C. Tiene algunas restricciones
+D. Vinculado a Compromisos
+ANSWER: A
+
+B05-L03-Q02- Pregunta:¿Cuál es un concepto relacionado con la calidad?
+A. Conformidad
+B. Todos los demás
+C. Acción preventiva
+D. Acción correctiva
+ANSWER: B
+
+B05-L03-Q03- Pregunta:¿Qué es un modelo de calidad?
+A. Criterio para juzgar la calidad
+B. Acción y efecto de obtener un valor que representa una característica de calidad
+C. Conjunto de reglas para hacer productos de calidad
+D. Conjunto de características de calidad
+ANSWER: D
+
+B05-L03-Q04- Pregunta:¿Cuál de las siguientes características tiene que ver con la compatibilidad?
+A. Convivencia
+B. Capacidad de recuperación
+C. Accesibilidad técnica
+D. Capacidad a utilizar
+ANSWER: A
+
+JAVIER
+
+B05-L03-Q01 Pregunta: ¿Cual de las siguientes no es una característca de calidad?
+A. Está sujeta a restricciones
+B. es multidimensional
+C. sus criterios no tienen relación unos con otros
+D. no es absoluta
+
+ANSWER: C
+
+B05-L03-Q02 Pregunta: ¿si comentemos un error a la hora de programar nuestro código, qué generamos?
+A. un bug
+B. un fallo
+C. un error
+D. un defecto
+
+ANSWER: D
+
+B05-L03-Q03 Pregunta: ¿cuál de las siguientes no es una característa de la mantenibilidad del modelo
+de calidad?
+A. Adaptabilidad
+B. reusabilidad
+C. capacidad para ser analizado
+D. modularidad
+
+ANSWER: A
+
+B05-L03-Q04 Pregunta: ¿cómo se llama la familia de normas para la calidad del producto software?
+A. ISO2600
+B. RFC: 739
+C. RFC: 768
+D. ISO2500
+
+ANSWER: D
+
+B05-L03-Q05 Pregunta: ¿Qué es falso respecto a la planificación de la calidad?
+A. se centra en establecer los objetivos de la calidad
+B. especifica los recursos y procesos necesarios
+C. sirve para orientar a una organización
+D. es parte de la gestión de la calidad
+
+ANSWER: C

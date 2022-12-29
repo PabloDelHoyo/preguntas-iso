@@ -1,0 +1,205 @@
+Enrique Albalate Prieto
+
+B05-L04-Q01- Si se nos pide una cobertura de condiciones/decisiones y el mayor número de valores 
+a probar que posee una variable en nuestro programa 5, ¿cuántos casos de prueba se requerirán?
+
+A. 5 * segundo número de valores a probar más grande del programa
+B. 5
+C. No puede saberse con los datos del enunciado
+D. 20
+ANSWER: C
+
+B05-L04-Q02- ¿Cuál de las siguientes opciones no representa un nivel de pruebas?
+A. Prueba de conjunto
+B. Prueba unitaria
+C. Prueba de integración
+D. Prueba de aceptación
+ANSWER: A
+
+B05-L04-Q03- Un desvío respecto a comportamiento requerido del sistema detectado por el usuario es:
+A. Un defecto
+B. Un fallo 
+C. Un error
+D. Ninguna de las anteriores
+ANSWER: B
+
+B05-L04-Q04- Selecciona la afirmación falsa sobre un test suite:
+A. Puede estar compuesto de un único caso de prueba
+B. Los casos de prueba que lo forman tienen un propósito común
+C. En ellos se empleará una base de datos compartida
+D. Se ejecutará siempre de manera individual cada caso de uso que lo integra
+ANSWER: D
+
+Álvaro García Caballero
+
+B05-L04-Q01- Un fallo es detectado por...
+A. Usuarios
+B. Gerente del proyecto
+C. Ingeniero de software
+D. Probadores
+ANSWER: A
+
+B05-L04-Q02- ¿Cuál es una de las ventajas de las pruebas de mutación?
+A. Permite mejorar un conjunto de pruebas en un proceso iterativo
+B. No es aplicable para todos los proyectos ya que modifica el código fuente.
+C. es caro
+D. Obtiene una gran cantidad de mutantes.
+ANSWER: A
+
+B05-L04-Q03- Un conjunto de pruebas(test suite) es un...:
+A. Colección de casos de prueba
+B. Valor de entrada para el programa
+C. Condición previa para la ejecución del programa
+D. Poscondición para la ejecución del programa
+ANSWER: A
+
+B05-L04-Q04- El objetivo principal de las pruebas es:
+A. Prueba de que un programa funciona correctamente.
+B. Verifique que el programa haga lo que se supone que debe hacer.
+C. Verifique que el programa no haga nada que no se supone que debe hacer.
+D. Detectar el mayor número de defectos posibles antes de lanzar a producción.
+ANSWER: D
+
+Javier González García
+B05-L04-Q01- ¿qué hace un oráculo?
+A. Predice si se toma o no un salto en una subrutina
+B. decide si un programa se comporta correctamente ante un conjunto de datos
+C. nos ayuda a elegir un buen conjunto de datos de prueba
+D. automatiza las pruebas
+
+ANSWER: B
+
+B05-L04-Q02- ¿cuál no es una características de las pruebas de caja negra?
+A. se conoce sus entradas y salidas
+B. se observan las salidas producidas
+C. se conoce la estructura del programa
+D. se compara la salida con los resultados esperados
+ANSWER: C
+
+B05-L04-Q03- ¿cuál no es un nivel y/o tipo de pruebas?
+A. Pruebas de sistema
+B. pruebas de seguridad
+C. pruebas de rendimiento
+D. pruebas de fiabilidad
+
+ANSWER: D
+
+B05-L04-Q04- ¿cúal es el nivel de cobertura más profundo?
+A. Condiciones
+B. múltiple de condiciones
+C. sentencias
+D. subrutinas
+
+ANSWER: B
+
+B05-L04-Q05- ¿qué no incluye el test case?
+A. valores de salida
+B. valores de entrada
+C. resultados esperados
+D. postcondiciones de ejecución
+
+ANSWER: A
+
+Laura Fernandez del Moral Gª Consuegra
+
+B05-L04-Q01- Respecto a los valores limites (Boundary values), seleccione la opcion incorrecta.
+A. Existen dos variantes de estos valores limite.
+B. La variante pesada toma el valor inmediatamente inferior al limite.
+C. Se seleccionan los valores situados en los limites de las clases de equivalencia.
+D. Todas son falsas.
+
+ANSWER: D
+
+B05-L04-Q02- ¿Cual de las siguientes no es una estrategia de combinacion para casos de prueba?
+A. AETG
+B. PROW
+C. REF
+D. Antirandom
+
+ANSWER: C
+
+B05-L04-Q03- Sobre las pruebas de mutación, ¿Cual de las siguientes es un cambio a nivel de decisión?
+A. Cambio de condiciones
+B. Cambio en sentencias de control
+C. Cambio de operadores condicionales
+D. Todas son correctas.
+
+ANSWER: D
+
+B05-L04-Q04- ¿Cual de las siguientes es una desventaja de las pruebas de mutación?
+A. Permite mejorar los conjuntos de casos de prueba en un proceso iterativo.
+B. Gran número de mutantes
+C. Conduce a mayores niveles de cobertura
+D. Ninguna de las anteriores.
+
+ANSWER: B
+
+Raúl González Velázquez
+
+B05-L04-Q01- ¿A qué hace referencia la funcion MINIMAX?
+A. Maxima eficacia de las pruebas y minimo tiempo invertido.
+B. Maxima eficacia del código y minimos errores.
+C. Maximo número de trabajadores y minimos errores.
+D. Todas son falsas.
+
+ANSWER: A
+
+B05-L04-Q02- La siguiente definición corresponde con la definción de... "desvío respecto al comportamiento requerido del sistema"
+A. Error
+B. Fallo 
+C. Defecto
+D. Todas son correctas. 
+
+ANSWER: B
+
+B05-L04-Q03- Las cajas blancas...
+A. Todas son correctas.
+B. Conocen sus entradas y salidas.
+C. Conoce estructura interna del programa a probar.
+D. Comparan la salida con los datos esperados.
+
+ANSWER: C
+
+B05-L04-Q04- ¿Quién realiza las pruebas de aceptación?
+A. El equipo de testing.
+B. El jefe de proyecto.
+C. El cliente. 
+D. Ninguna de las anteriores.
+
+ANSWER: C
+
+Yolanda Ayuso Agúndez
+
+B05-L04-Q01- La variante pesada...
+A. Toma los valores límite y los valores adyacentes de las clases de equivalencia adyacentes.
+B. Toma los valores límite de la clase, los valores adyacentes y el valor inmediatamente inferior al límite. 
+C. Toma el máximo número de valores posibles.
+D. Sólo toma los valores límites.
+
+ANSWER: B
+
+B05-L04-Q02- ¿Cuál de los siguientes no es una estrategía de cobertura? 
+A. Cada uso
+B. Todos los pares
+C. Todas las tuplas de n elementos
+D. Alguna de las tuplas de n elementos
+
+ANSWER: D
+
+B05-L04-Q03- ¿Cuál de las siguientes no es una ventaja de las pruebas de mutación? 
+A. Conduce a mayores niveles de cobertura.
+B. Se puede usar como indicador de lo bueno o malo que es un conjunto de casos de prueba
+C. Gran número de mutantes
+D. Permite descubrir ambigüedades en el código fuente probado
+
+ANSWER: C
+
+B05-L04-Q04- Un defecto es detectado por...
+A. El tester. 
+B. El usuario.
+C. Ingeniero de software.  
+D. Ninguna de las anteriores.
+
+ANSWER: A
+
+ 
