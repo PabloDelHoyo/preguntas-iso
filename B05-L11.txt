@@ -1,0 +1,173 @@
+ENRIQUE
+
+B05-L11-Q01- Pregunta:¿Cuál de las siguientes opciones no está implicada en la definición de un proyecto?
+A. Tiempo.
+B. Dinero.
+C. Metodología.
+D. Alcance.
+ANSWER: C
+
+B05-L11-Q02- Pregunta:La principal diferencia entre validar y verificar un proyecto es:
+A. Validar consiste en comprobar que el resultado final sea el necesario y esperado.
+B. Verificar está orientado a un control final.
+C. Validar está relacionado con controles intermedios.
+D. Ambos conceptos poseen igual significado.
+ANSWER: A
+
+B05-L11-Q03- Pregunta:¿Qué tipo de modelos de ciclo de vida dejan las partes del proyecto más difíciles para el final, empezando por las más fáciles y de menor riesgo?
+A. El modelo incremental.
+B. El modelo en cascada.
+C. El modelo en espiral.
+D. Los modelos tradicionales.
+ANSWER: D
+
+B05-L11-Q04- Pregunta:Indica la característica que no es aplicable a los modelos de referencia de procesos:
+A. Son usados para definir prioridades y objetivos de mejora.
+B. Definen el orden en que deben realizarse los procesos.
+C. Contienen prácticas que en la experiencia han resultado efectivas.
+D. No son una colección de leyes/normas a seguir.
+ANSWER: B
+
+
+YOLANDA
+B05-L11-Q01- Pregunta:¿En cuál de estas tres categorías se pueden dividir las metodologías estructuradas?
+A. Orientadas al cliente, orientadas a stakeholder y mixtas.
+B. Orientadas a la formación, orientadas a datos y orientadas a procesos.
+C. Orientadas a procesos, orientadas a datos y mixtas.
+D. Orientadas a objetos, orientadas a procesos y orientadas a datos.
+ANSWER: C
+
+B05-L11-Q02- Pregunta:Un stakeholder es...
+A. Un conjunto de tareas.
+B. Proceso que transforma unas entradas en una determinada salida.
+C. Producto utilizado como entrada o generado como salida.
+D. Cualquier persona u organización relacionada con el desarrollo del software.
+ANSWER: D
+
+B05-L11-Q03- Pregunta:En la fase de mantenimiento del ciclo de vida del software...
+A. se identifican los requisitos del sistema.
+B. se define cómo ha de diseñarse la estructura de datos.
+C. se define cómo ha de traducirse el diseño en un lenguaje de programación y cómo han de realizarse las pruebas.
+D. se centra en la realización de las adaptaciones requeridas del software a medida que evoluciona su entorno y mejoras debidas a los cambios en los requisitos del cliente.
+ANSWER: D
+B05-L11-Q04- Pregunta:El modelo lineal-secuencial también es llamado...
+A. Modelo en cascada.
+B. Modelo incremental.
+C. Modelo en espiral.
+D. Modelo iterativo y creciente.
+ANSWER: A
+
+LAURA
+B05-L11-Q01- Pregunta:¿Cuál de ellas no es uno de los tres grandes aspecto del ciclo de vida?
+A. Metodologías de desarrollo.
+B. Modelos de ciclos de vida.
+C. Modelos de requisitos.
+D. Modelos de procesos.
+ANSWER: C
+
+B05-L11-Q02- Pregunta:Relacionado con el modelo de cascada, señale la opción incorrecta
+A. Al terminar cada fase se genera una documentación.
+B. La primera etapa se denomina Análisis de Requisitos del sistema.
+C. Para finalizar el modelo se debe realizar una codificación y pruebas necesarias.
+D. Una etapa puede comenzar a pesar de que otra no haya finalizado.
+ANSWER: D
+
+B05-L11-Q03- Pregunta:¿Cuál de ellas es una ventaja del modelo incremental?
+A. No se entrega nada al usuario hasta que esté finalizado.
+B. El usuario suele involucrarse más.
+C. Los errores se detectan inmediatamente.
+D. El modelo requiere unos gestores especializados.
+ANSWER: B
+
+B05-L11-Q04- Pregunta:Señale qué opción corresponde con una característica deseable de una metodología de desarrollo
+A. Permite un soporte al mantenimiento.
+B. Se mantiene una cobertura toral del ciclo de desarrollo.
+C. Tiene una fácil formación.
+D. Todas son correctas.
+ANSWER: D
+RAÚL
+B05-L11-Q01- Pregunta:¿Qué estándar define los procesos del ciclo de vida del software? 
+A. ISO 10067.
+B. ISO 7852.
+C. ISO 12207.
+D. Los procesos del ciclo de vida del software no están definidos por ningún estándar.
+ANSWER: C
+
+B05-L11-Q02- Pregunta:¿Cuál de las siguientes etapas NO corresponden al modelo en cascada? 
+A. Análisis requisitos del sistema. 
+B. Codificación y pruebas. 
+C. Análisis de riesgos. 
+D. Diseño detallado. 
+ANSWER: C
+
+B05-L11-Q03- Pregunta:¿A cuál de las siguientes preguntas NO tiene que dar respuesta una metodología de desarrollo? 
+A. ¿Cuál es el coste total del proyecto? .
+B. ¿Cómo se divide el proyecto en etapas? .
+C. ¿Qué herramientas se van a utilizar?.
+D. ¿Cómo se gestiona y controla un proyecto? .
+ANSWER: A
+
+B05-L11-Q04- Pregunta:¿Cuál es la diferencia entre metodología y ciclo de vida? 
+A. No hay ninguna diferencia entre metodología y ciclo de vida.
+B. La metodología indica qué es lo que hay que obtener a lo largo del desarrollo, pero no cómo. El ciclo de vida en cambio indica cómo conseguir lo que hay que conseguir. 
+C. La metodología indica cómo conseguir el objetivo. El ciclo de vida indica el tiempo máximo para conseguir ese objetivo. 
+D. El ciclo de vida indica qué es lo que hay que obtener a lo largo del desarrollo, pero no cómo. La metodología indica cómo conseguir lo que hay que conseguir.
+ANSWER: D
+JAVIER
+B05-L11-Q01- Pregunta:El modelo en cascada es útil cuando:
+A. el cliente no sabe bien lo que necesita y el equipo desarrollo es inexperto.
+B.  cuando el cliente quiere tener contacto frecuente con el equipo de desarrollo.
+C. cuando el proyecto está bien definido desde el principio.
+D. se desea ir viendo cómo va evolucionando el proyecto.
+ANSWER: C
+
+B05-L11-Q02- Pregunta:Toda metodología de desarrollo incluye:
+A. una relación directa con el cliente.
+B. un ciclo de vida.
+C. un análisis de requisitos.
+D. casos de uso.
+ANSWER: B
+
+B05-L11-Q03- Pregunta:¿Cuál de las siguientes afirmaciones es falsa con respecto al modelo de ciclo de vida incremental?
+A. Hay una mayor interacción con el usuario.
+B. Durante el proyecto se van haciendo entregas a los usuarios.
+C. Requiere gestores especializados.
+D. Es sencillo estimar el coste que tendrá el proyecto.
+ANSWER: D
+
+B05-L11-Q04- Pregunta:¿Cuál de los siguientes procesos no es un proceso de gestión técnica?
+A. Proceso de gestión de riesgos.
+B. Proceso de planificación de proyectos.
+C. Proceso de definición de requisitos del sistema / software.
+D. Proceso de aseguramiento de la calidad.
+ANSWER: C
+
+
+ÁLVARO
+B05-L11-Q01- Pregunta:¿Cuál es el modelo de ciclo de vida que es más propenso a errores durante el desarrollo de software?
+A. Modelo incremental.
+B. Modelo de cascada.
+C. Modelo Espiral.
+D. Modelo de referencia del proceso.
+ANSWER: B
+
+B05-L11-Q02- Pregunta:¿Cuál es el primer paso del ciclo de vida del software?
+A. Análisis de requisitos.
+B. Requisitos.
+C. Planificación de proyectos de software.
+D. Diseño de software.
+ANSWER: B
+
+B05-L11-Q03- Pregunta:El ciclo de vida de un producto de software es:
+A. un marco de referencia.
+B. un proceso productivo.
+C. el tiempo en el que la empresa lo utiliza.
+D. una actividad utilizada para diseñarlo.
+ANSWER: A
+
+B05-L11-Q04- Pregunta:Un conjunto de accione que transforman unas entradas en salidas, es:
+A. Un proceso-
+B. Una tarea.
+C. Un artefacto.
+D. Una actividad.
+ANSWER: D

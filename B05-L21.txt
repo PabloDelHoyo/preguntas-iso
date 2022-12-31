@@ -1,0 +1,184 @@
+ENRIQUE
+
+B05-L21-Q01-  Pregunta: Selecciona aquello que se mantendrá estable en nuestros proyectos:
+A. Las necesidades a satisfacer en él 
+B. La metodología usada 
+C. La aparición de cambios
+D.  El equipo de trabajo 
+ANSWER: C
+
+B05-L21-Q02-  Pregunta: ¿Cuál de las siguientes opciones no se ve afectada por el versionado?
+A. Los planes sobre el proyecto
+B. Los diagramas de requisitos 
+C. El código fuente 
+D. Cualquier artefacto requerirá de remodelaciones
+ANSWER: D
+
+B05-L21-Q03-  Pregunta: ¿Qué tipo de release permite ahorrar los gastos destinados a las pruebas del sistema sobre multitud de dispositivos y realizadas por personas diferentes? 
+A. Alpha
+B. Plan
+C. Beta
+D. Ninguna de las anteriores
+ANSWER: C
+
+B05-L21-Q04-  Pregunta: La versión de la primera liberación de la aplicación que estemos desarrollando deberá ser nombrada (usando Semantic Versioning) como:
+A. 1.0.0
+B. 0.0.0
+C. 0.0.1
+D. 0.1.0
+ANSWER: A
+
+
+YOLANDA
+
+B05-L21-Q01- Pregunta:¿En qué rama se corrigen los defectos detectados en producción que no son urgentes? 
+A. Rama de desarrollo.
+B. Rama master.
+C. Rama de release.
+D. En todas las ramas.
+ANSWER: A
+
+B05-L21-Q02- Pregunta:¿Cuál es la fase para comenzar las pruebas de software después de que todas las características del código estén completas y después de que los errores encontrados durante el lanzamiento Alfa hayan sido corregidos?
+A. Fase de conflictos.
+B. Fase de prueba.
+C. Fase alpha.
+D. Fase beta.
+ANSWER: D
+
+B05-L21-Q03- Pregunta:¿Cuál de los siguientes es un propósito de la Gestión de Configuración (CM)?
+A. Todas son correctas.
+B. Registrar e informar de cada cambio y su estado en la implementación.
+C. Dar soporte a la auditoría de los productos, resultados, servicios o componentes para verificar la conformidad con respecto a los requisitos.
+D. Identificar y documentar las características funcionales y físicas de cualquier producto, componente, resultado o servicio.
+ANSWER: A
+
+B05-L21-Q04- Pregunta:La versión minor(x.Y.z| x>0)...
+A. Debe ser incrementada si se introduce una nueva funcionalidad compatible con la versión anterior.
+B. Debe ser incrementada si cualquier cambio no compatible con la versión anterior es introducida a la API Pública.
+C. Debe incrementarse cuando se introducen solo arreglos compatibles con la versión anterior.
+D. Todas las anteriores son falsas. 
+ANSWER: C
+
+
+LAURA
+B05-L21-Q01- Pregunta:Sobre los conceptos de Branching (Ramificacion). Señale la opción incorrecta.
+A. La creación de una nueva línea base a partir de una versión existente.
+B. La nueva línea base y la existente pueden desarrollarse de manera independiente.
+C. Se necesita un change Request siempre.
+D. La a y la b son correctas.
+ANSWER: C.
+
+
+B05-L21-Q02- Pregunta:El formato del conjunto sencillo de reglas para el versionado es M.m.p, ¿Qué significa esa sigla? Señale la opción correcta.
+A. Maximum, Major y Personal.
+B. Major, Minor y Patch.
+C. Major,Minor y Personal.
+D. Maximum, Major y Patch.
+ANSWER: B
+
+
+B05-L21-Q03- Pregunta:Sobre el proceso de Almacenamientos de incrementos y de versión, ¿cual de ellas NO es una aportación de las herramientas de gestión de versiones?
+A. Soporte al proyecto.
+B. Identificación de versión y liberalización.
+C. Desarrollo independiente / colaborativo.
+D. Agrupación de todas las versiones.
+ANSWER: D
+
+
+B05-L21-Q04- Pregunta:¿Cuáles son las diferentes liberaciones sobre el concepto de Liberacion? Señale la opción correcta.
+A. Software Masivo.
+B. Software Mínimo.
+C. Software a medida.
+D. La a y la c son correctas.
+ANSWER: D
+
+
+RAÚL
+B05-L21-Q01- Pregunta:¿Qué es el codeline?  
+A. Las líneas de codigo.
+B. Un conjunto de versiones de un componente de software y otros elementos de configuración de los cuales depende dicho componente.
+C. Ninguna de las anteriores.
+D. Un documento que establece los elementos necesarios para ejecutar el codigo.
+ANSWER: B
+
+B05-L21-Q02- Pregunta:¿Cuál es la fase del ciclo de lanzamiento que es la primera fase para comenzar las pruebas de software?.
+A. Fase Alpha 
+B. Fase Beta 
+C. Fase inicial 
+D. Fase Delta
+ANSWER: A
+
+B05-L21-Q03- Pregunta:¿En qué rama se tiene el código listo para desplegarse en el entorno de producción? 
+A. Rama de desarrollo.
+B. Rama master.
+C. Rama de release.
+D. En todas las ramas.
+ANSWER: B
+
+B05-L21-Q04- Pregunta:La linea base... 
+A. Es una colección de versiones de componentes que construyen un sistema.
+B. Representa un hito de cada fase de desarrollo.
+C. Especificación o producto que ha sido formalmente revisado y sobre el que se ha alcanzado un acuerdo, y que por tanto sirve de base para futuros desarrollos.
+D. Todas las anteriores son correctas. 
+ANSWER: D
+
+
+ÁLVARO
+
+B05-L21-Q01- Pregunta:¿Cuál es una herramienta para la gestión de versiones?
+A. CHacer
+B. Ninguno
+C. Experto Apache
+D. Git
+ANSWER: D
+
+B05-L21-Q02- Pregunta:Una versión es...
+A. Una publicación o nueva publicación de un elemento de configuración de software, asociada con una compilación o recompilación completa del elemento de configuración.
+B. La asignación de un identificador de versión único a estados específicos de elementos de configuración de software, generalmente para un propósito específico, como la publicación/lanzamiento de un producto de software o la especificación de una línea de base particular.
+C. Ambos
+D. Ninguno de ellos
+ANSWER: A
+
+B05-L21-Q03- Pregunta:Ramificación significa...
+A. Creación de una nueva línea de base a partir de una versión existente
+B. Para llevar a cabo los pasos necesarios para producir una instancia de un producto
+C. Una solicitud de un cliente interno o externo para realizar un cambio en la línea base de configuración
+D. Un documento que establezca los elementos necesarios para ejercer la gestión de la configuración
+ANSWER: A
+
+B05-L21-Q04- Pregunta:¿Cuál de los siguientes lanzamientos es el último?
+A. Liberación alfa
+B. Versión beta
+C. Liberación comercial
+D. Liberación definitiva
+ANSWER: C
+
+JAVIER
+
+B05-L21-Q01 Pregunta: Cual de las siguientes afirmaciones es falsa:
+A. La gestión de versiones conlleva a que tenemos que garantizar que las versiones de diferentes desarrolladores no interfieran
+B. Las herramientas de gestión de configuración se utilizan para seguir las propuestas de cambios
+C. La base beta del ciclo de lanzamiento, es la primera de ésta
+D. Los realeases pueden contener toda la aplicación o solamente parte de ella
+ANSWER: C
+
+B05-L21-Q02 Pregunta: Que es cierto respecto al semantic versioning:
+A. Nos sirve para identificar la primera fase del proyecto
+B. Es solo aplicable en metodologías ágiles
+C. La versión patch(x.y.Z) se puede incrementar cualquier tipo de arreglo
+D. Todas las afirmaciones anteriores son son falsas
+ANSWER: D
+
+B05-L21-Q03 Pregunta: 3 Cual de los siguientes conceptos no está relacionado con la gestión de la configuración
+A.Ramificación
+B.Release alpha
+C.Maximun viable product
+D.Change request
+ANSWER: C
+
+B05-L21-Q04 Pregunta: Cual de los siguientes no es un tipo de rama:
+A. Rama de release
+B. Rama master
+C. Rama de testing
+D. Rama de desarrollo
+ANSWER: C

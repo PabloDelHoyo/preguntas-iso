@@ -1,0 +1,203 @@
+Raúl González Velázquez
+
+B05-L05-Q01-  ¿Qué mantenimiento se encarga de localizar y eliminar defectos que potencialmente pueden causar fallos?
+A. Mantenimiento adaptativo.
+B. Mantenimiento correctivo.
+C. Mantenimiento preventivo.
+D. Mantenimineto perfectivo.
+
+ANSWER: B
+
+B05-L05-Q02- La siguiente definición corresponde con la definción de... "es el grado en que un sistema o programa de ordenador está compuesto de componentes discretos de forma tal
+que un cambio en un componente tenga un impacto mínimo en los demás."
+A. Mantenimiento
+B. Modificabilidad 
+C. Analizabilidad
+D. Modularidad 
+
+ANSWER: D
+
+B05-L05-Q03- El Principio Single Responsibility dice que...
+A. Ninguna es correcta.
+B. Una clase debe tener una y solo una razón para cambiar.
+C. Pon el foco en las cosas simples que hacen el software funcionar.
+D. Una función debe hacer lo que su nombre expresa claramente.
+
+ANSWER: B
+
+B05-L05-Q04- ¿Qué supone el mayor porcentaje en el coste de un proyecto?
+A. Testing.
+B. Implementación.
+C. Mantenimiento. 
+D. Ninguna de las anteriores.
+
+ANSWER: C
+
+Yolanda Ayuso Agúndez
+
+B05-L05-Q01- ¿Cuál de las siguientes no es una característica dentro de ISO 25010:2011? 
+A. Reusabilidad.
+B. Modularidad. 
+C. Analizabilidad.
+D. Pruebas.
+
+ANSWER: D
+
+B05-L05-Q02- ¿Qué mantenimiento se encarga de mejorar o añadir funcionalidad debido a cambios en los
+requisitos de un producto software? 
+A. Perfectivo
+B. Adaptativo
+C. Correctivo
+D. Preventivo
+
+ANSWER: A
+
+B05-L05-Q03- ¿Cuál de las siguientes actividades no corresponden con el mantenimiento? 
+A. Codificación y pruebas unitarias.
+B. Pruebas de aceptación.
+C. Documentación del sistema.
+D. Todas corresponden con el mantenimiento.
+
+ANSWER: D
+
+B05-L05-Q04- El Principio YAGNI dice ...
+A. Pon el foco en las cosas simples que hacen el software funcionar. 
+B. Mantén la simplicidad en vez de implementar de forma artificialmente compleja.
+C. Una función debe hacer lo que su nombre expresa claramente.  
+D. Ninguna de las anteriores.
+
+ANSWER: A
+
+Enrique Albalate Prieto
+
+B05-L05-Q01- ¿Cuál de las siguientes no es una fase de la reingeniería del software?
+A. Restructuración.
+B. Ingeniería inversa.
+C. Ingeniería directa.
+D. Despliegue.
+ANSWER: D
+
+B05-L05-Q02- Si para un sistema o componente software, el esfuerzo actual de incrementar la mantenibilidad es mayor que la reducción futura del esfuerzo de mantenimiento: 
+A. Será rentable centrarse en el mantenimiento del sistema o componente software medido.
+B. Lo mejor es empezar de cero con él.
+C. Los datos del enunciado no proporcionan suficiente información para tomar una decisión.
+D. El esfuerzo actual no puede ser mayor a la reducción futura de él.
+ANSWER: A
+
+B05-L05-Q03- ¿Qué principio "clean code" recomienda evitar código duplicado?
+A. Boy Scout
+B. DRY
+C. Least Surprise
+D. KISS
+ANSWER: B
+
+B05-L05-Q04- ¿Cuál de los siguientes no es una métrica de mantenibilidad?
+A. Documentación del código
+B. Complejidad ciclomática
+C. Código duplicado
+D. Dependencias acíclicas
+ANSWER: D
+
+B05-L05-Q05- La mantenibilidad depende de ciertas propiedades como:
+A. Todas son correctas
+B. Interoperabilidad
+C. Modularidad
+D. Adaptabilidad
+ANSWER: C
+
+Javier González García
+
+B05-L05-Q01- ¿Qué busca el mantenimiento adapatativo?
+A. Adaptarse a un nuevo software
+B. adaptase a un nuevo hardware
+C. adaptarse a posibles cambios legales
+D. todas las anteriores opciones son correctas
+ANSWER: D
+
+B05-L05-Q02- ¿Qué no se puede considerar como manteniento preventivo?
+A. comprobar, mediante ciertas sentencias, la validez de los datos
+B. mejorar la legibilidad de los programas
+C. hacer análisis para ver el rendimiento del programa
+D. eliminar código innecesario
+ANSWER: C
+
+B05-L05-Q03- ¿Cuál de los siguientes no es un tipo de prueba?
+A. pruebas de integración
+B. pruebas de verificación
+C. pruebas de regresión
+D. pruebas de aceptación
+ANSWER: B
+
+B05-L05-Q04- ¿cuál es un problema del código heredado?
+A. fue programado con otro hardware
+B. suele estar muy mal hecho
+C. los que lo hicieron ya no son parte del equipo de matenimiento
+D. no presenta ningún problema
+ANSWER: C
+
+B05-L05-Q05- ¿Cual de los siguientes sí es un componente de la organización de mantenimiento?
+A. gestor de peticiones
+B. administrador de redes
+C. scrumm master
+D. analista de datos
+ANSWER: A
+
+Laura Fernandez del Moral Garcia Consuegra
+
+B05-L05-Q01- ¿Cual de la siguientes no es una causa de fallo?
+A. Por procesamiento.
+B. Por documentación.
+C. Por falta de comunicación.
+D. Por programación.
+ANSWER: C
+
+B05-L05-Q02- ¿Cual es el objetivo del mantenimiento correctivo?
+A. Localizar y eliminar defectos que potencialmente pueden causar fallos
+B. Crear copias de las distintas versiones 
+C. Documentar todo lo realizado
+D. Ninguna de las anteriores.
+Answer: A.
+
+B05-L05-Q03- ¿Cual de los siguientes cambios pueden afectar al mantenimiento adaptivo?
+A. Sistema operativo
+B. Entorno de desarrolo del software
+C. Arquitectura física del sistema informático.
+D. Todas son correctas.
+ANSWER: D.
+
+B05-L05-Q04- Cual de los siguientes NO es un ejemplo de restructuración?
+A. Añadir comentarios
+B. Documentación
+C. Refactorizar código
+D. Modificar diagrama de clases UML
+ANSWER: B
+
+Álvaro García Caballero
+
+B05-L05-Q01- ¿Qué tipo de mantenimiento representa el costo relativo más alto en una empresa?
+A. Mantenimiento Perfectivo.
+B. Mantenimiento Correctivo.
+C. Mantenimiento Preventivo.
+D. Mantenimiento adaptativo.
+ANSWER: A
+
+B05-L05-Q02- ¿Cual de esas frases es cierta?
+A. La reingeniería es una etapa de la ingeniería inversa.
+B. La ingeniería inversa es una etapa de la reingeniería.
+C. La ingeniería directa es lo mismo que la ingeniería inversa.
+D. La ingeniería directa es lo mismo que la reingeniería.
+ANSWER: B
+
+B05-L05-Q03- ¿Cuál es la frase incorrecta sobre el código heredado?
+A. La mayoría del software actual consiste en código heredado.
+B. Es código desarrollado con técnicas y herramientas que se utilizan actualmente.
+C. Requeriría una gran inversión para actualizarlo.
+D. Este código ha sido objeto de varias actividades de mantenimiento.
+ANSWER: B
+
+B05-L05-Q04- ¿Cuál es la frase incorrecta sobre el código heredado?
+R. La mayoría del software actual consiste en código heredado.
+B. Es un código desarrollado con técnicas y herramientas que se utilizan actualmente.
+C. Requeriría una gran inversión para actualizarlo.
+D. Este código ha sido objeto de varias actividades de mantenimiento.
+RESPUESTA: B
