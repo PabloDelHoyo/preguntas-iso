@@ -21,9 +21,16 @@ vez hecho esto, en el repositorio _upstream_ aparecerá, en la pestaña de pull 
 que hayas hecho se incorporarán a la rama principal de _upstream_ si alguien en el repositorio con rol de colaborador les da su visto bueno.
 Si se llegara a fusionar tu rama con el `main` de _upstream_, es recomendable eliminarla para que no se vayan acumulando.
 4. Un _fork_ no se sincroniza automáticamente cada vez que su _upstream_ cambia por lo que esta operación hay que hacerla manualmente. Pare sincronizarlo,
-hay que pulsar el botón en el que pone _Syn fork_. Si no se han añadido commits a la rama `main` del _fork_, esta operación no debería fallar.
+hay que pulsar el botón en el que pone _Sync fork_. Si no se han añadido commits a la rama `main` del _fork_, esta operación no debería fallar.
 
 Por último, si cualquiera que consultase las preguntas encontrase cualquier tipo de fallo, que no dude en abrir un _issue_ o, en caso de que
 pueda solucionarlo, un pull request.
+
+## Notas
+No existe ninguna garantía de que las preguntas que se han subido sean correctas. Si se descrubriera algún fallo, recomiendo que se abra un
+Pull Request con una corección de la misma o que, en caso de que no merezca la pena corregirla, se elimine. Tengo la intención de subir también
+las preguntas que aparecen en el cuestionario que han dejado abierto para que practiquemos. Estas serán incluidas en otro directorio ya que
+no hay que tomar las mismas precauciones que con las otras pues se supone que han sido revisadas por los profesores.
+
 ### Fuentes: 
 * [1] Chacon, S y Straub, B.(2014). Contributing to a project, [*Pro Git*](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)  pp. 170-190
