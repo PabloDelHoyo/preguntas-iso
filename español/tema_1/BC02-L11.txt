@@ -1,0 +1,182 @@
+BC02-L11-Q01- ¿Cuál de los siguientes no es un modelo de ciclo de vida?: 
+A. Cascada. 
+B. Incremental. 
+C. Iterativo-Gradual. 
+D. Ninguno de los anteriores es un modelo de ciclo de vida. 
+ANSWER: C 
+
+BC02-L11-Q02- Si un cliente nos encarga un proyecto del cual tiene todos los detalles ya concretados, deberíamos usar un modelo de ciclo de vida: 
+A. Incremental. 
+B. En cascada. 
+C. En espiral. 
+D. Iterativo-Gradual. 
+ANSWER: B 
+
+BC02-L11-Q03- ¿Qué es cierto sobre las metodologías?: 
+A. Todas las empresas usan las mismas metodologías. 
+B. Nos dice un cómo hacer las cosas. 
+C. No se pueden adaptar de distintas maneras. 
+D. Siempre se elegirán por defecto antes de saber qué hacer. 
+ANSWER: B  
+
+BC02-L11-Q04- Es cierto sobre el modelo de referencia de procesos que: 
+A. En total hay 300 procesos para poder realizarlo. 
+B. Hace falta siempre tener todos los procesos implementados para su correcta funcionalidad. 
+C. Es un modelo de ciclo de vida. 
+D. Los procesos se encuentran en el ISO 12207:2017. 
+ANSWER: D 
+
+BC02-L11-Q05- ¿Qué no nos dice una metodología de desarrollo?: 
+A. Cuantos miembros debe tener un equipo. 
+B. Que restrcciones se aplican. 
+C. Que herraminetas se van a usar. 
+D. Como se divide un proyecto en etapas. 
+ANSWER: A 
+
+BC02-L11-Q06- ¿Cuál no es una metodología estructurada?: 
+A. Orientadas a objetos. 
+B. Orientadas a datos. 
+C. Mixtas. 
+D. Orientadas a procesos. 
+ANSWER: A 
+
+BC02-L11-Q07- ¿Qué define un modelo de ciclo de vida?: 
+A. Cómo se ordenan las diferentes fases de un proyecto. 
+B. Define que procesos hay que realizar para desarrollar el sistema. 
+C. Cómo hay que trabajar para desarrollar los procesos. 
+D. Todas las anteriores. 
+ANSWER: A  
+
+BC02-L11-Q08- ¿Cuáles son las fases génericas del ciclo de vida del SW?: 
+A. Análisis,Desarrollo,Despliegue y Mantenimiento.	 
+B. Definición, Desarrollo,Despliegue y Mantenimiento. 
+C. Análisis, Diseño SW, Implementación y Mantenimiento. 
+D. Definición, Desarrollo,Despliegue, Correción y Adaptación. 
+ANSWER: B 
+
+BC02-L11-Q09- ¿El modelo de procesos define que procesos hay que realizar para desarrollar un sistema SW? ¿Tiene ciclo de vida?: 
+A. Si. 
+B. No. 
+C. Si, pero no tiene ciclo de vida. 
+D. No, pero si tiene ciclo de vida. 
+ANSWER: C 
+
+BC02-L11-Q10- ¿Cuál de ellas NO es una característica deseable de una metodología?: 
+A. Fácil formación. 
+B. Soporte al mantenimiento. 
+C. Existencia de reglas predefinidas. 
+D. Documentación exclusiva. 
+ANSWER: D 
+
+BC02-L11-Q11- ¿Qué metodología sería recomendable usar si desea desarrollar un sistema informático en tiempo real?: 
+A. Orientado a Objetos. 
+B. Orientado a Procesos. 
+C. Mixto. 
+D. Niguna de las anteriores. 
+ANSWER: A 
+
+BC02-L11-Q12- ¿Qué personas componen los stakeholders?: 
+A. Los informáticos. 
+B. Cualquier persona u organización relacionada con el desarrollo del software. 
+C. Los clientes e informáticos. 
+D. Los inversores. 
+ANSWER: B  
+
+BC02-L11-Q13- El Modelo en Cascada es: 
+A. Un Modelo de Ciclo de Vida. 
+B. Un Modelo de Procesos. 
+C. Una Metodología de Desarrollo. 
+D. Un Modelo Incremental. 
+ANSWER: A  
+
+BC02-L11-Q14- ¿Cuál es uno inconvenientes del Modelo Incremental?: 
+A. Se tarda mucho tiempo en pasar por todo el ciclo. 
+B. No se tienen resultados hasta el final. 
+C. Suele ser difícil estimar el coste total del proyecto. 
+D. La evaluación de los riesgos es una tarea compleja. 
+ANSWER: C 
+
+BC02-L11-Q15- ¿Cuál de las siguientes NO es una Metodología Orientada a Objetos?: 
+A. Métrica v3 OO. 
+B. PUD. 
+C. Merise. 
+D. OMT. 
+ANSWER: C 
+
+BC02-T11-Q16- ¿Cual es el primer paso a la hora de desarrollar software?: 
+A. Análisis de requisitos 
+B. Diseño. 
+C. Obtener los requisitos. 
+D. Implementación. 
+ANSWER: C 
+
+BC02-L11-Q17- ¿Cuál de las siguientes afirmaciones sobre el modelo en cascada es cierta?: 
+A. Es muy rápido pasar por todo el ciclo. 
+B. Las revisiones de los proyectos de gran complejidad son fáciles. 
+C. Poco flexible. 
+D. No se adapta a equipos de trabajo poco cualificados o inexpertos por la estructura ordenada. 
+ANSWER: C 
+
+BC02-L11-Q18- Los involucrados en un desarrollo de software son: 
+A. Stakeholder. 
+B. Directores. 
+C. Empleados. 
+D. Tareas. 
+ANSWER: A 
+
+BC02-L11-Q19- Los tipos de modelos de ciclos de vida son: 
+A. En cascada, incremental, en espiral. 
+B. Circular, lineal. 
+C. Estructuradas, orientas a objetos, orientadas a personas. 
+D. Ninguna de las anteriores. 
+ANSWER: A 
+
+BC02-L11-Q20- En el modelo en cascada: 
+A. Cada ciclo revisa el ciclo anterior y el plan siguiente. 
+B. Se desarrolla en incrementos. 
+C. Se involucra más al cliente. 
+D. Una etapa no comienza hasta que termine la anterior. 
+ANSWER: D 
+
+BC02-L11-Q21- En el modelo incremental: 
+A. Son poco flexibles. 
+B. El sistema se desarrolla para proyectos bien definidos. 
+C. El sistema se desarrolla en incrementos. 
+D. No se tienen resultados hasta el final. 
+ANSWER: C 
+
+BC02-L11-Q22- La evolución de las metodologías de desarrollo son: 
+A. Incrementales, en cascada.  
+B. Convencionales, estructuradas, orientadas a objetos. 
+C. Análisis, diseño, implementación. 
+D. Ninguna de las anteriores. 
+ANSWER: B 
+
+BC02-L11-Q23- ¿Cuál es la principal ventaja del modelo de cascada?: 
+A.Útil en proyectos complejos que se entienden y quedan definidos desde el comienzo. 
+B.El usuario se involucra más. 
+C.Resultado mayormente positivo. 
+D.Permite interacciones vueltas atrás y finalizaciones rápidas. 
+ANSWER: A 
+
+BC02-L11-Q24- ¿Cuál de estas opciones no es un estandar internacional?:  
+A.ISO. 
+B.IEEE. 
+C.W3E. 
+D.WC. 
+ANSWER: D 
+
+BC02-L11-Q25- ¿Cuál de estas metodologías no coincide con la metodología estructurada mixta?: 
+A.Metodología merise. 
+B.Metodología ssadm. 
+C.Metodología métrica. 
+D.Metodología jerárquica. 
+ANSWER: D 
+ 
+BC02-L11-Q26- Según la frase "cada ciclo se completa con una revision que incluye todo el ciclo anterior y el plan para el siguiente" a que modelo de ciclo de vida hace referencia: 
+A.Modelo incremental. 
+B.Modelo en cascada.
+C.Modelo en espiral. 
+D.Modelo Rufier. 
+ANSWER: C 
+
