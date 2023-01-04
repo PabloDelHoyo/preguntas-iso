@@ -1,0 +1,180 @@
+Preguntas tema 2 del grupo BC02
+
+Diego Cordero 
+Juan Caravantes 
+Carlos Fernández-Aparicio
+Alejandro Medina
+Mohamed Essalhi
+Rosa María Fernández-Baíllo
+
+
+BC02-L21-Q01- Cuál es el objetivo de la gestión de la configuración:
+A. Es intentar que el trabajo de varios programadores entren en conflicto por colisiones.
+B. Establece y protege la integridad de un producto o de los componentes de un producto a lo largo de su vida útil.
+C. Crear interfaces básicas para que el usuario modifique la configuración de su producto.
+D. Establecer el número de versión de nuestro producto.
+ANSWER: B
+
+BC02-L21-Q02- ¿Cuál de estas no es una actividad básica de la gestión de configuración?:
+A. Gestión del cambio.
+B. Gestión de versiones.
+C. Gestión de errores.
+D. Construcción del sistema.
+ANSWER: C
+
+BC02-L21-Q03- ¿Qué es una baseline?:
+A. La rama de producción que se encarga de lanzar versiones.
+B. Versión del producto lista para lanzarse de forma comercial.
+C. Especificación o producto que ha sido formalmente revisado y sobre el que se ha alcanzado un acuerdo, y que por tanto sirve de base para futuros desarrollos.
+D. Rama típica de repositorios git, donde se almacena el código fuente de nuestro proyecto.
+ANSWER: C
+
+BC02-L21-Q04- ¿Quién es el Configuration Management Authority (CMA)?:
+A. La persona encargada de autorizar los cambios a realizar en un proyecto.
+B. En un equipo, el/los que se encargue de la implementación.
+C. El cliente generalmente, que manda más o menos cambios.
+D. Un programa que genera informes sobre los cambios realizados.
+ANSWER: A
+
+BC02-L21-Q05- ¿Qué es la construcción de un sistema?:
+A. Es el proceso de crear un sistema ejecutable y completo.
+B. Es, exclusivamente, la generación de código a partir del resto de artefactos del desarrollo.
+C. Es el proceso a seguir para realizar un proyecto de software.
+D. El plan a seguir para la codificación de un proyecto.
+ANSWER: D
+
+BC02-L21-Q06- En la gestión de la configuración el codeline es...:
+A. El conjunto de código de un proyecto.
+B. Los ejecutables que se entregan al cliente.
+C. Es un conjunto de versiones de un componente de software y otros elementos de los que depende.
+D. Es el producto final que se entrega al cliente junto a las librerías de las que depende y el manual de usuario.
+ANSWER: C
+
+BC02-L21-Q07- El versionado es...:
+A. La asignación de un único identificador de versión a estados específicos de elemento de la configuración.
+B. El conjunto de versiones por las que ha pasado un componente hasta su versión definitiva.
+C. Es el protocolo dedicado a recopilar los cambios de estructura que sufre un componente.
+D. Ninguna es cierta.
+ANSWER: A
+
+BC02-L21-Q08- ¿Cuál es el objetivo del branching (o proceso de ramificación):
+A. Evitar que el trabajo de varios programadores entre en conflicto por colisiones.
+B. Separar los problemas en las unidades más sencillas posibles.
+C. Controlar las versiones por las que pasa la estructura del software.
+D. Analizar los costes y beneficios de los cambios propuestos.
+ANSWER: A
+
+BC02-L21-Q09- La gestión de la configuración establece y protege...:
+A. El equipo de desarrollo.
+B. La integridad del producto y sus componentes.
+C. Las iteraciones del PUD.
+D. La planificación del proyecto.
+ANSWER: B
+
+BC02-L21-Q010- Cuál es el objetivo del branching:
+A. Es intentar que el trabajo de varios programadores entren en conflicto por colisiones.
+B. Es evitar que el trabajo de varios programadores entren en conflicto por colisiones.
+C. Es evitar que el trabajo de varios programadores se independicen.
+D. Es evitar que el trabajo de varios programadores se independicen y fusionen.
+ANSWER: B
+
+BC02-L21-Q011- Los tipos de liberaciones son:
+A. Software Masivo y Software a Medida.
+B. Software Masivo y Software Mínimo.
+C. Software Mínimo y Software Máximo.
+D. Software Mixto y Software Solo.
+ANSWER: A
+
+BC02-L21-Q012- ¿Cuál es la afirmación verdadera sobre la rama master?:
+A. La rama de producción siempre tiene código listo para desplegar en el entorno de producción.
+B. Se realizan pruebas sobre la versión en preproducción y se corrigen los defectos detectados.
+C. Las nuevas características de funcionalidad se desarrollan en ramas paralelas.
+D. Sobre ella se corrigen los defectos detectados en producción que no son urgentes (se liberan con la siguiente versión).
+ANSWER: C
+
+BC02-L21-Q013- Definición de Tag:
+A. Identificador explícito e inmutable de una versión de software insertado en cada elemento de configuración, incluyendo cada publicación individual, que puede ser usada para identificar la versión exacta del elemento de configuración en cada repositorio.
+B. La fase Beta del ciclo de lanzamiento es una fase secundaria para comenzar las pruebas de software después de que todas las características del código estén completas y después de que los errores encontrados durante el lanzamiento Alfa hayan sido corregidos.
+C. Conjunto software liberada/publicada de una aplicación, que puede contener todo o parte de dicha aplicación.
+D. Un documento que establece los elementos necesarios para ejercer la gestión de configuración.
+ANSWER: A
+
+BC02-L21-Q014- Definición de Release Plan:
+A. Un plan por parte de un cliente interno o externo para hacer un cambio a la línea base de la configuración.
+B. Un plan que describe cualquier persona o grupo de personas designado para ser esponsable de que las actividades de la CM sean planificadas y ejecutadas.
+C. Un plan que describe la fase alfa del ciclo de lanzamiento es la primera fase para comenzar las pruebas de software.
+D. Un plan que describe qué porciones de las funcionalidades de un sistema serán implementadas en cada release y los fundamentos de cada release.
+ANSWER: D
+
+BC02-L21-Q015- Una de las actividades básicas de la gestión de la configuración es:
+A. Gestión del espacio.
+B. Gestión del cambio.
+C. Gestión del tiempo.
+D. Gestión del propósito.
+ANSWER: B 
+ 
+BC02-L21-Q016- La línea base es:
+A. Una colección de versiones de componentes que construyen un sistema.
+B. Versión operativa del sistema.
+C. Conjunto de versiones de un software.
+D. Configuración de los productos de trabajo.
+ANSWER: A 
+ 
+BC02-L21-Q017- Para que un cliente solicite un cambio debe realizar:
+A. Configuration management plan.
+B. Codeline.
+C. Change request.
+D. Branching.
+ANSWER: C
+ 
+BC02-L21-Q018- La primera fase para comenzar las pruebas de software es:
+A. Fase Alfa.
+B. Fase Beta.
+C. Fase final.
+D. Fase de implementación.
+ANSWER: A
+
+BC02-L21-Q019- ¿La gestión de Liberaciones consiste en?
+A. Preparar el software para la entrega externa y hacer un seguimiento de las versiones del sistema que se entregaron para uso del cliente.
+B. Hacer que el sistema sea de Software Libre.
+C. Preparar el sistema para subirlo públicamente y que la gente pueda acceder a él.
+D. Ninguna de las anteriores.
+ANSWER: A
+
+BC02-L21-Q020- El Baseline (Línea Base) es:
+A. Especificación o producto que ha sido formalmente revisado y sobre el que se ha alcanzado un acuerdo, y que por tanto sirve de base para futuros desarrollos.
+B. Una línea base es una colección de versiones de componentes que construyen un sistema.
+C. Versión aprobada de un elemento de configuración que independientemente del medio, es formalmente designado y fijado en un momento específico de tiempo durante el ciclo de vida del elemento de configuración.
+D. Todas son correctas.
+ANSWER: D
+ 
+BC02-L21-Q021-¿Qué es Configuration Management Database (CMDB)?
+A. Es una versión de un producto con las características mínimas pero suficientes que permite determinar si se satisfacen los requisitos más importantes de los clientes.
+B. Tipo específico de repositorio para el mantenimiento de la información de la CM.
+C. Cualquier incremento generado tras una iteración del desarrollo.
+D. Conjunto software liberada/publicada de una aplicación.
+ANSWER: B
+ 
+BC02-L21-Q22- ¿Qué es el versioning?
+A. Una publicación o republicación de un elemento de configuración software, asociado con una compilación completa o recopilación del elemento de configuración.
+B. Las herramientas de gestión de configuración se usan para hacer un seguimiento de las 
+propuestas de cambios (issues).
+C. La asignación de un único identificador de versión a estados específicos de elementos de 
+configuración del software.
+D. Gestión de las actividades encaminadas a la publicación (release) de una o más versiones 
+de software a uno o más clientes.
+ANSWER: C
+
+BC02-L21-Q23- ¿Qué es la gestión de versiones?
+A. Un Seguimiento de las diferentes versiones de los componentes del sistema y garantizar que los cambios hechos por diferentes desarrolladores a los componentes no interfieren entre sí.
+B. Un Seguimiento de las diferentes versiones de los componentes del sistema y garantizar que los cambios hechos por diferentes desarrolladores a los componentes suelen interfierir entre sí.
+C. La asignación de un único identificador de versión a estados específicos de elementos de configuración del software.
+D. Una Gestión de las actividades encaminadas a la publicación (release) de una o más versiones de software a uno o más clientes.
+ANSWER: A
+
+BC02-L21-Q24- Las siglas MVP significan:
+A. Producto Mínimo Viable
+B. Producto Necesario Usable
+C. Producto Maximo Viable
+D. Ninguna de las anteriores
+ANSWER: A
