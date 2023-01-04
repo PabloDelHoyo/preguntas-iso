@@ -1,0 +1,203 @@
+BC02-L4-Q01 - En el contexto de pruebas, ¿Qué es el oráculo?: 
+A. Saber en todo momento lo que va a devolver un programa. 
+B. El agente encargado de decir si un programa se ha comportado como debe o no. 
+C. Una técnica preventiva de errores. 
+D. Ninguna de las anteriores es correcta. 
+ANSWER: B 
+
+BC02-L4-Q02- ¿Cuál de las siguientes no forma parte de un caso de prueba?: 
+A. Valores de prueba. 
+B. Precondiciones de ejecución. 
+C. Resultados esperados. 
+D. Errores conocidos. 
+ANSWER: D 
+
+BC02-L4-Q03- ¿Qué es una prueba unitaria?: 
+A. Centrarse en probar parte por parte el programa, dependiendo de éste como se haga esa división. 
+B. Comprueban que un sistema entero funciona bien con su entorno 
+C. Hace la misma prueba (llamada prueba unitaria) a todo un programa. 
+D. Ninguna de las anteriores es correcta. 
+ANSWER: A 
+
+BC02-L4-Q04- En el contexto de pruebas, ¿Qué es la cobertura?: 
+A. Grado en el que ciertas partes del sistema han sido probadas. 
+B. Saber si todo el programa funciona o no. 
+C. El nivel de pruebas que se ha llevado a cabo en una parte del sistema. 
+D. El grado que determina si un programa funciona o no. 
+ANSWER: A 
+
+BC02-L4-Q05- ¿Cuál no es un nivel de cobertura?: 
+A. Cobertura de decisiones. 
+B. Cobertura de sentencias. 
+C. Cobertura múltiple de decisiones. 
+D. Cobertura de variables. 
+ANSWER: D 
+
+BC02-L4-Q06- ¿En qué consiste el nivel de cobertura de decisiones?: 
+A. Hacer que cada condición del programa se haya evaluado al menos una vez a true/false. 
+B. Hacer que ninguna condición de nunca false. 
+C. Hacer que ninguna condición de nunca tue. 
+D. Hacer que cada condición del programa se haya evaluado de todas las formas que sean posibles. 
+ANSWER: A  
+
+BC02-L4-Q07- El objetivo de las pruebas es: 
+A. Encontrar fallos. 
+B. Demostrar que el programa funciona. 
+C. Especificar los requisitos. 
+D. Implementar el código. 
+ANSWER: B 
+
+  
+
+BC02-L4-Q08- Un error es: 
+A. Equivocación realizada por el programador. 
+B. Error al realizar alguna actividad, detectados por el tester. 
+C. Desvío respecto al comportamiento requerido, detectados por el usuario. 
+D. Ninguno de los anteriores. 
+ANSWER: A 
+
+BC02-L4-Q09- Marca la falsa. En las pruebas de caja negra: 
+A. Se conoce sus entradas y salidas. 
+B. Se observan las salidas producidas. 
+C. Se compara la salida con los datos esperados. 
+D. Se conoce estructura interna del programa a probar. 
+ANSWER: D 
+
+BC02-L4-Q10- En las particiones de equivalencia: 
+A. Se divide el dominio de entrada de cada parámetro en conjuntos. 
+B. Se divide el código a probar en conjuntos. 
+C. Se dividen las pruebas en días distintos de pruebas. 
+D. A y B son correctas. 
+ANSWER: A 
+
+  
+
+BC02-L4-Q11- Con un criterio de cobertura Todos los pares (pairwise): 
+A. Se deben visitar, al menos una vez, todos los pares de valores de dos parámetros cualesquiera. 
+B. Cada valor interesante debe utilizarse, al menos, en un caso de prueba. 
+C. Los casos de prueba visitan todas las tuplas de n elementos de n parámetros cualesquiera. 
+D. Se deben visitar dos parámetros cualesquiera. 
+ANSWER: A 
+
+BC02-L4-Q12- ¿Cuál es el orden de la prueba de caja negra?: 
+A. Input->Black Box->Output 
+B. Input->White Box->Output 
+C. Input->Output->Black Box->Input->Output 
+D. Input->Output->White Box->Input->Output 
+ANSWER: A 
+
+BC02-L4-Q13- ¿Qué es una variante ligera?:  
+A. Por cada clase de equivalencia se toman como valores de prueba los propios valores límite de la clase y los valores adyacentes de las clases de equivalencia adyacentes. 
+B. Se toma además el valor inmediatamente inferior al límite, perteneciente a la clase de equivalencia que se está considerando. 
+C. Se toma además el valor inmediatamente superior al límite, perteneciente a la clase de equivalencia que se está considerando. 
+D. Por cada clase se toma el valor superior al límite. 
+ANSWER: A 
+
+BC02-L4-Q14- Estrategias de criterios de cobertura:  
+A. Each use 
+B. Pairwise 
+C. N-Wise 
+D. Todas las anteriores 
+ANSWER: D 
+
+BC02-L4-Q15- Cual no es una Ventaja en las pruebas de mutación:  
+A. Se puede usar como indicador de lo bueno o malo que es un conjunto de casos de prueba 
+B. Permite mejorar los conjuntos de casos de prueba en un proceso iterativo 
+C. Permite descubrir ambigüedades en el código fuente probado 
+D. Conduce a menores niveles de cobertura 
+ANSWER: D 
+
+BC02-L4-Q16-Ciclo de metodología TDD:  
+A. Fallo->Pasa->Refactor 
+B. Fallo->Solución->Informacion 
+C. Fallo->Planificación->Refactor 
+D. Fallo-->Refactor 
+ANSWER: A 
+
+BC02-L4-Q17 -¿Cuál es el objetivo de realizar pruebas en el software desarrollado? 
+A. Demostrar que el programa funciona bien. 
+B. Encontrar fallos antes del paso a producción. 
+C. Demostrar que programas mejor que nadie. 
+D. Corregir los fallos de los compañeros. 
+ANSWER: B 
+
+BC02-L4-Q18 -¿Qué es un fallo en un programa software? 
+A. Equivocación realizada por una persona picando código. 
+B. Error al realizar alguna actividad concerniente al software.   
+C. Es un desvío respecto al comportamiento esperado del sistema. 
+D. Cuando capturamos mal una excepción y el programa se rompe. 
+ANSWER: C 
+
+  
+
+BC02-L4-Q19 -¿Qué es el oráculo en el desarrollo software? 
+A. Conocer la salida esperada. 
+B. Un agente humano o mecánico que decide si un programa se comportó adecuadamente ante un conjunto de datos. 
+C. Un agente humano o mecánico que decide si un programa se comportó erróneamente ante un conjunto de datos. 
+D. Lugar sagrado donde se acudía para consultar a los dioses. 
+ANSWER: B 
+
+BC02-L4-Q20 ¿Qué son las pruebas de caja blanca? 
+A. Las pruebas de caja blanca se centran en los detalles procedimentales del software, por lo que su diseño está fuertemente ligado al código fuente. 
+B. Son las pruebas en las que solo nos preocupamos de que el resultado final sea correcto. 
+C. Consiste el realizar pruebas sobre un sistema software de manera aleatoria. 
+D. Ese tipo de pruebas no existen.
+ANSWER: A 
+
+BC02-L4-Q21- En el entorno de desarrollo, ¿qué pruebas se realizan? 
+A. Todas son correctas .
+B. Pruebas de aceptación .
+C. Pruebas del sistema .
+D. Pruebas unitarias/Integración.
+ANSWER: D 
+
+BC02-L4-Q22- ¿Qué es un mutante?: 
+A. Combinar pruebas de forma aleatoria. 
+B. Una copia del sistema original con pequeños cambios. 
+C. Tomar valores de prueba y combinarlos para generar casos de prueba mutantes. 
+D. Ninguna es correcta.  
+ANSWER: B 
+
+BC02-L4-Q23 - ¿Qué pruebas las realiza el cliente que contrata la producción del software al final del desarrollo?: 
+A. Pruebas de Aceptación. 
+B. Pruebas de Sistema. 
+C. Pruebas de Integración. 
+D. Pruebas Unitarias. 
+ANSWER: A 
+
+BC02-L4-Q24 - MiniMax equivale a: 
+A. Máxima eficacia en pruebas con el mínimo tiempo invertido en ellas. 
+B. Mínima eficacia en pruebas con el mínimo tiempo invertido en ellas. 
+C. Mínima eficacia en pruebas con el máximo tiempo invertido en ellas 
+D. Máxima eficacia en pruebas con el máximo tiempo invertido en ellas. 
+ANSWER: A 
+
+ 
+
+BC02-L4-Q25- Las pruebas de aceptación: 
+A. Las realiza el cliente que contrata la producción del software al final del desarrollo. 
+B. Son usualmente pruebas de caja negra. 
+C. Son usualmente pruebas de caja blanca. 
+D. Son parecidas a las de integración. 
+ANSWER: A 
+
+BC02-L4-Q26 – La definición: "Error al realizar alguna actividad concerniente al software” es utilizada para referirse a: 
+A. Fallo. 
+B. Defecto. 
+C. Carencia. 
+D. Error. 
+ANSWER: B 
+
+BC02-L4-Q27- ¿Qué es un Oráculo? 
+A. Un programa. 
+B. Un agente. 
+C. Un caso de prueba. 
+D. Ninguno de los anteriores. 
+ANSWER: B 
+
+BC02-L4-Q28 – Las cajas negras se diferencian de las cajas blancas por: 
+A. Su entrada y salida. 
+B. Por sus métodos internos. 
+C. Por la transparencia. 
+D. La seguridad. 
+ANSWER: C 
