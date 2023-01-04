@@ -1,0 +1,191 @@
+BC02-L5-Q01- ¿Qué tipo de mantenimiento no existen?: 
+A. Mantenimiento correctivo 
+B. Mantenimiento abusivo. 
+C. Mantenimiento perfectivo. 
+D. Mantenimiento adaptativo. 
+ANSWER: B 
+
+BC02-L5-Q02- ¿Cuál es el objetivo del mantenimiento correctivo?: 
+A. Localizar y corregir defectos. 
+B. Añadir mejoras no funcionales. 
+C. Añadir mejoras funcionales. 
+D. Ninguna opción es correcta. 
+ANSWER: A 
+
+BC02-L5-Q03- ¿De qué cambios no se encarga el mantenimiento adaptativo?: 
+A. Cambios en el hardware. 
+B. Cambios en el software. 
+C. Cambios en el equipo de desarrollo. 
+D. Cambios legales. 
+ANSWER: C 
+
+BC02-L5-Q04- ¿Qué nos puede llevar a realizar un mantenimiento evolutivo/perfectivo?: 
+A. Cambios en los requisitos del cliente. 
+B. Un aumento de presupuesto. 
+C. Cambios en el equipo de desarrollo. 
+D. Que el programador encuentre algo que no le gusta. 
+ANSWER: A 
+
+BC02-L5-Q05- El mantenimiento preventivo modifica la funcionalidad del producto: 
+A. Esta afirmación es falsa. 
+B. Esta afirmación es verdadera. 
+C. El mantenimiento nunca modifica la funcionabilidad del programa. 
+D. La afirmación es parcialmente cierta. 
+ANSWER: A 
+
+BC02-L5-Q06- ¿Qué mantenimiento es el que más tiempo conlleva en grandes empresas?  
+A. Mantenimiento correctivo 
+B. Mantenimiento preventivo. 
+C. Mantenimiento perfectivo/evolutivo. 
+D. Mantenimiento adaptativo. 
+ANSWER: C 
+
+BC02-L5-Q07- Señala actividades que se realizan en las Pruebas:  
+A. Pruebas de integración, Pruebas de aceptación, Pruebas de regresión 
+B. Pruebas de regresión, Pruebas de integración, Pruebas de programación 
+C. Pruebas de integración, Pruebas de programación, Pruebas de documentación 
+D. Pruebas de integración, Pruebas de aceptación, Pruebas de documentación 
+ANSWER: A 
+
+BC02-L5-Q08- Señala características de Gestión del Mantenimiento:  
+A. No estrategia sistemática 
+B. Mantenimiento precipitado, no documentado 
+C. Introducción de más defectos de los que se solucionan 
+D. Todas las anteriores 
+ANSWER: D 
+
+BC02-L5-Q09- Señala buenas practicas de Gestión Estructurada:  
+A. Prevenir antes que curar 
+B. Conocer y entender el flujo de control general del programa. 
+C. Evaluar la documentación. 
+D. Todas las anteriores 
+ANSWER: A 
+
+BC02-L5-Q10- ¿Cuál NO es un estándar?:  
+A. ISO 12207:2017 
+B. ISO/IEC 14764:2006 
+C. ISO/IEC 25000:2014 
+D. IPO/SEC 20001:69 
+ANSWER: D 
+
+BC02-L5-Q11- ¿Cuál de todas NO es una Técnicas de Mantenimiento?:
+A. Ingeniería inversa 
+B. Restructuración e Ingeniería Directa 
+C. La A y B 
+D. Ingeniería Cuadrática Restructurada 
+ANSWER: D 
+
+BC02-L5-Q12- El propósito del Mantenimiento es: 
+A. Dar soporte a la capacidad de un sistema de proporcionar un servicio. 
+B. Dar soporte a la capacidad de un sistema de proporcionar un servidor. 
+C. Modificar la integridad del producto software. 
+D. Retirar el producto software. 
+ANSWER: A 
+
+BC02-L5-Q13- El objetivo del Mantenimiento Correctivo es: 
+A. Mejorar funcionalidades. 
+B. Eliminar funcionalidades. 
+C. Adaptarse a cambios en el entorno de trabajo. 
+D. Eliminar defectos que pueden causar fallos. 
+ANSWER: D 
+
+BC02-L5-Q14- El Mantenimiento que mayor coste produce es: 
+A. Perfectivo. 
+B. Correctivo. 
+C. Preventivo. 
+D. Adaptativo. 
+ANSWER: A 
+
+BC02-L5-Q15- Las pruebas de integración: 
+A. Comprueba la adecuación de los componentes nuevos en el sistema. 
+B. Comprueba la integridad de los componentes nuevos en el sistema. 
+C. Comprueba mediante casos de pruebas los componentes nuevos en el sistema. 
+D. Inspecciona el cambio. 
+ANSWER: B 
+
+BC02-L5-Q16- Una dificultad que nos podemos encontrar en el Mantenimiento es: 
+A. Documentación. 
+B. Código estructurado. 
+C. Recursos dedicados al mantenimiento. 
+D. Legacy code. 
+ANSWER: D 
+
+BC02-L5-Q17- ¿Cúales son los 4 tipos de mantenimiento? 
+A. Perfectivo, Correctivo, Preventivo y Adaptativo 
+B. Perfectivo, Evolutivo, Preventivo y Adaptativo 
+C. Evolutivo, Correctivo, Preventivo y Perfectivo 
+D. Perfectivo, Correctivo, Evolcionado y Cambiante 
+ANSWER: A  
+
+BC02-L5-Q18- ¿Cuál es el objetivo del mantenimiento Correctivo? 
+A. Adaptarse a cambios en el entorno de trabajo. 
+B. Mejorar o añadir funcionalidad debido a cambios en los requisitos de un producto software. 
+C. Localizar y eliminar defectos que potencialmente pueden causar fallos. 
+D. Modificar el software para mejorar sus propiedades sin alterar sus especificaciones funcionales. 
+ANSWER: C 
+
+BC02-L5-Q19- ¿Cuál no es una actividad de mantenimiento? 
+A. Análisis de impacto y de costes/beneficios. 
+B. Comprensión del cambio. 
+C. Diseño del cambio. 
+D. Captura de requisitos. 
+ANSWER: D 
+
+BC02-L5-Q20- ¿Qué son las pruebas de aceptación? 
+A. El usuario comprueba, junto al personal encargado del mantenimiento, la adecuación del cambio a sus necesidades. 
+B. Donde se somete al software modificado a casos de pruebas previamente almacenados y por los que ya pasó. 
+C. Se refiere a comprobar la integración de los componentes modificado con el resto del sistema. 
+D. Se revisa la documentación del sistema para que se ajuste al producto Software ya modificado. 
+ANSWER: A  
+
+BC02-L5-Q21- Al mantener y transformar el software, ¿qué es probable que ocurra? 
+A. Hará que la estructura del software sea cada vez más compleja. 
+B. Hará que la estructura del software sea cada vez más simple. 
+C. Que aleatoriamente deje de realizar su función y haga una completamente nueva. 
+D. Niguna de las anteriores. 
+ANSWER: A 
+
+BC02-L5-Q22- ¿Qué es la reingenieria del software? 
+
+A. La reingeniería hace posible llevar a cabo el mantenimiento evolutivo de sistemas de información existentes asumiendo riesgos y costes bajos 
+B. Es sólo una etapa de la ingeniería. 
+C. Consiste en realizar un proyecto software una y otra vez hasta el éxito. 
+D. Todas son correctas. 
+ANSWER: A 
+
+BC02-L5-Q23-La primera fase de la reingeniería es:
+A. Reestructuración
+B. Ingeniería directa
+C. Ingeniería inversa
+D. Ninguna de las anteriores
+ANSWER: C
+
+BC02-L5-Q23- Cuál NO es uno de los cuatro tipos de mantenimiento:
+A. Mantenimiento Adaptativo.
+B. Mantenimiento Integrativo.
+C. Mantenimiento Preventivo.
+D. Todas las respuestas son válidas.
+ANSWER: B
+
+BC02-L5-Q24- El principio DRY dentro del clean code dice que: 
+A. Una función debe hacer lo que su nombre expresa claramente.
+B. Se debe mantener la simplicidad en vez de implementar de forma artificialmente compleja.
+C. Hay que poner el foco en las cosas simples que hacen el software funcionar.
+D. Debemos evitar el código duplicado.
+ANSWER: D
+
+BC02-L5-Q25- El mantenimiento que tiene como objetivo modificar el software para mejorar sus propiedades sin alterar sus especificaciones funcionales es...:
+A. Mantenimiento Adaptativo.
+B. Mantenimiento Perfectivo.
+C. Mantenimiento Preventivo.
+D. Mantenimiento Correctivo.
+ANSWER: C
+ 
+
+ 
+
+ 
+
+ 
+
+ 
