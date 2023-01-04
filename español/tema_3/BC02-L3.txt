@@ -1,0 +1,167 @@
+BC02-L3-Q01- En cuanto a la relación calidad/coste: 
+A. Debemos buscar siempre la calidad. 
+B. Debemos buscar siempre el coste. 
+C. Debemos buscar un equilibrio entre el coste y la calidad. 
+D. No importa ninguna. 
+ANSWER: C 
+
+BC02-L3-Q02- La confidencialidad es un aspecto de: 
+A. Mantenibilidad. 
+B. Portabilidad. 
+C. Fiabilidad. 
+D. Seguridad. 
+ANSWER: D 
+
+BC02-L3-Q03- La evaluación por madurez se refiere a: 
+A. El nivel de la organización. 
+B. El nivel del proceso. 
+C. El nivel de los productos. 
+D. Todas son correctas. 
+ANSWER: A 
+
+BC02-L3-Q04- Marcar la opción falsa. ISO 33000 permite a una organización: 
+A. Comprender el estado de sus propios procesos. 
+B. Determinar la idoneidad de sus procesos 
+C. Evaluar y mejorar sus procesos. 
+D. Nos dice que procesos hay que utilizar. 
+ANSWER: D 
+
+BC02-L3-Q05- Respecto a la mejora de procesos: 
+A. Es un ciclo continuo. 
+B. No debemos especificar los procesos. 
+C. Siempre debemos aplicar los procesos, aunque no tengamos la tecnología. 
+D. La calidad no es un factor del que dependa.  
+ANSWER: A 
+
+BC02-L3-Q06- ¿Cuál de estas no pertenece a una cualidad de la calidad?: 
+A. No es absoluta. 
+B. Es multi-dimensional. 
+C. Siempre está definida solo por el cliente. 
+D. Los criterios de calidad no son independientes. 
+ANSWER: C 
+
+BC02-L3-Q07- ¿Qué corresponde al ciclo de mejor continua?: 
+A. Plan-Do-Check-Act. 
+B. Manage-Do-Check-Act. 
+C.  Plan-Do-Verify-Act. 
+D. Plan-Do-Check-Art. 
+ANSWER: A
+
+BC02-L3-Q08- ¿Qué estándar regula la calidad de producto?: 
+A. Depende de la empresa. 
+B.  ISO7777. 
+C.  ISO25000. 
+D.  No es regulada por ningún estándar concreto. 
+ANSWER: C 
+
+BC02-L3-Q09- ¿Qué dos tipos de evaluación de la calidad de proceso existen principalmente para una empresa?: 
+A. Madurez y capacidad. 
+B. Madurez y profundidad. 
+C. Estandarización y capacidad. 
+D. Aplicación y productividad. 
+ANSWER: A 
+
+BC02-L3-Q10- ¿Cuál de estas afirmaciones NO es una característica de calidad?: 
+A. Los criterios de calidad no son independientes. 
+B. No es absoluta. 
+C. Es absoluta. 
+D. Está sujeta a restricciones. 
+ANSWER: C 
+
+BC02-L3-Q11- ¿Cuál es la definición de "No Conformidad"?: 
+A. Cumplimiento de un requisito. 
+B. Eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable. 
+C. Sistema de gestión incapaz de dirigir y controlar una organización con respecto a la Calidad. 
+D. Incumplimiento de un requisito. 
+ANSWER:D 
+
+BC02-L3-Q12- ¿Cuál NO es una característica de Seguridad?: 
+A. Confidencialidad. 
+B. Integridad. 
+C. Responsabilidad. 
+D. Madurez. 
+ANSWER: D
+
+BC02-L3-Q13- ¿Cuál es una característica de Capacidad de Uso?: 
+A. Capacidad de Aprendizaje técnico. 
+B. Capacidad para ser modificado. 
+C. Interoperabilidad. 
+D. Tolerancia a fallos. 
+ANSWER: A 
+
+BC02-L3-Q14- ¿Con qué frase se relaciona intuitivamente mejor el concepto de madurez?: 
+A. Hacer buenas cosas. 
+B. Hacer bien las cosas. 
+C. Hacer bien cosas buenas. 
+D. Hacer cosas. 
+ANSWER: C
+
+BC02-L3-Q15- Cuál de estas afirmaciones se relaciona con el concepto de madurez?: 
+A. Significa cumplir todos los atributos de proceso de los procesos de ese nivel de madurez. 
+B. Para alcanzar un nivel de madurez hay que alcanzar el nivel de capacidad de cada uno de los procesos asociados al nivel de madurez. 
+C. El nivel de madurez se corresponde con el mayor nivel de capacidad alcanzado por todos los procesos.  
+D. Todas las afirmaciones son correctas. 
+ANSWER: D 
+
+BC02-L3-Q16- Si en una empresa tienen 5 procesos con estos niveles de capacidad (2, 3, 4, 3, 5), esta empresa tiene un nivel de madurez de:  
+A. 5. 
+B. 2. 
+C. 3’4. 
+D. 3 
+ANSWER: B 
+
+BC02-L3-Q17- Marca el concepto que NO está relacionado con la calidad del producto Software: 
+A. Reparación. 
+B. Conformidad.  
+C. Defecto.  
+D. Resistencia. 
+ANSWER: D 
+
+BC02-L3-Q18- Autenticidad y Confidencialidad son dos características que se relacionan con: 
+A. Compatibilidad. 
+B. Seguridad. 
+C. Portabilidad. 
+D. Mantenibilidad. 
+ANSWER: B 
+
+BC02-L3-Q19- En que estándar se trata el grado en el que un conjunto de características inherentes cumple con los requisitos: 
+A. ISO 9000. 
+B. ISO 45. 
+C. ISO 24344. 
+D. ISO 8000. 
+ANSWER: A 
+
+BC02-L3-Q20- La adecuación (del producto) al uso es conocida como: 
+A. FITNESS FOR USE. 
+B. CROSSBY. 
+C. TAGUCHY. 
+D. USAGE. 
+ANSWER: A  
+
+BC02-L3-Q21- A una acción tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable se le conoce como: 
+A. No conformidad. 
+B. No aceptación. 
+C. Indeseabilidad. 
+D. Corrección. 
+ANSWER: A  
+
+BC02-L3-Q22- El equilibrio coste calidad es: 
+A. Inversamente proporcional. 
+B. Directamente proporcional. 
+C. No tienen relación. 
+D. Depende de la situación del mercado. 
+ANSWER: A
+
+BC02-L3-Q23- Una característica del concepto de calidad es:
+A. No es absoluta.
+B. Está sujeta a restricciones.
+C. Ninguna es correcta.
+D. A y B son correctas.
+ANSWER: D
+
+BC02-L3-Q24- Respecto a la fiabilidad, se requiere:
+A. Tolerancia a fallos.
+B. Completitud funcional.
+C. Confidencialidad.
+D. Coexistencia.
+ANSWER: A
